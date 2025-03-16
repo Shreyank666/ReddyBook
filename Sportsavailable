@@ -1,0 +1,200 @@
+{
+    "success": true,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "id": 4,
+            "slug": "cricket",
+            "sport_icon": "72004a21-faf9-40e5-ad4c-7b214e98e493/categories-icon.svg",
+            "banner_image": "7948076e-8a73-4010-97cd-19a6e66271af/369888.jpg",
+            "name": "cricket",
+            "created_at": "2020-06-14T15:44:52.000Z",
+            "rank": 1,
+            "is_custom": 0
+        },
+        {
+            "id": 2,
+            "slug": "tennis",
+            "sport_icon": "c013a6f2-ab85-405f-bcb8-686bc1b224be/categories-icon.svg",
+            "banner_image": "5ed523fa-d841-41e8-acc3-46573cf990d4/369888.jpg",
+            "name": "tennis",
+            "created_at": "2020-06-14T15:44:52.000Z",
+            "rank": 4,
+            "is_custom": 0
+        },
+        {
+            "id": 1,
+            "slug": "soccer",
+            "sport_icon": "60eed362a0e2b.png",
+            "banner_image": "60eed362a0c7c.png",
+            "name": "soccer",
+            "created_at": "2020-06-14T15:44:52.000Z",
+            "rank": 3,
+            "is_custom": 0
+        },
+        {
+            "id": 4343,
+            "slug": "fifa-cup-winner",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "FIFA CUP WINNER",
+            "created_at": "2024-06-15T06:14:08.000Z",
+            "rank": 0,
+            "is_custom": 1
+        },
+        {
+            "id": 4344,
+            "slug": "winner-cup",
+            "sport_icon": "26922969-ebca-42a7-b576-2276a9743d1a/imgpsh_fullsize_anim.png",
+            "banner_image": "6b5940af-2ad2-4275-8a40-20bb0f7eb605/imgpsh_fullsize_anim.png",
+            "name": "WINNER CUP",
+            "created_at": "2024-08-31T23:46:21.000Z",
+            "rank": 0,
+            "is_custom": 1
+        },
+        {
+            "id": 4345,
+            "slug": "election",
+            "sport_icon": "df4e0cbf-d1f4-4fb3-8b4a-3171d7018b31/download.png",
+            "banner_image": null,
+            "name": "ELECTION",
+            "created_at": "2024-09-01T00:44:47.000Z",
+            "rank": 0,
+            "is_custom": 1
+        },
+        {
+            "id": 27454571,
+            "slug": "esports",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Esports",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 26420387,
+            "slug": "mixed-martial-arts",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Mixed Martial Arts",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 2152880,
+            "slug": "gaelic-games",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Gaelic Games",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 998917,
+            "slug": "volleyball",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Volleyball",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 468328,
+            "slug": "handball",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Handball",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 61420,
+            "slug": "australian-rules",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Australian Rules",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 7524,
+            "slug": "ice-hockey",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Ice Hockey",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 7522,
+            "slug": "basketball",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Basketball",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 7511,
+            "slug": "baseball",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Baseball",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 6423,
+            "slug": "american-football",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "American Football",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 6422,
+            "slug": "snooker",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Snooker",
+            "created_at": "2024-10-12T21:07:14.000Z",
+            "rank": 0,
+            "is_custom": 0
+        },
+        {
+            "id": 27454572,
+            "slug": "kabaddi",
+            "sport_icon": "597b434e-f6e3-4195-8978-345fe2ddaf4a/360_F_278672215_EQRXldl67pxSstNeTIeUefoq3OhBPwwU-removebg-preview.png",
+            "banner_image": null,
+            "name": "Kabaddi ",
+            "created_at": "2024-10-16T12:57:53.000Z",
+            "rank": 0,
+            "is_custom": 1
+        },
+        {
+            "id": 27454574,
+            "slug": "table-tennis",
+            "sport_icon": null,
+            "banner_image": null,
+            "name": "Table tennis",
+            "created_at": "2024-11-08T10:29:12.000Z",
+            "rank": 0,
+            "is_custom": 0
+        }
+    ],
+    "pagination": {
+        "currentPage": 1,
+        "totalPages": 1
+    }
+}

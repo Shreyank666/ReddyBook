@@ -1,0 +1,2611 @@
+{
+	"success": true,
+	"message": "SUCCESS",
+	"data": [
+		{
+			"matchId": 251211,
+			"league_name": "West Indies Championship",
+			"event_id": "-10809433",
+			"sport_id": 4,
+			"league_id": 100000000097,
+			"event_name": "Barbados V Combined Campuses",
+			"event_date": "2025-03-05T14:00:00.000Z",
+			"slug": "-10809433-barbados-v-combined-campuses",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 1,
+			"inplay_status": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "13.1741216305",
+			"min_stake": 100,
+			"inplay_stake_limit": null,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": "0",
+			"bet_delay": null,
+			"market_internal_id": 885197,
+			"isMatchLive": true,
+			"sport_name": "cricket",
+			"inplay": true,
+			"status": "OPEN",
+			"runnerNames": []
+		},
+		{
+			"matchId": 243079,
+			"league_name": "International T20 Masters League",
+			"event_id": "34080497",
+			"sport_id": 4,
+			"league_id": 12718614,
+			"event_name": "Sri Lanka Masters v West Indies Masters",
+			"event_date": "2025-03-06T14:00:00.000Z",
+			"slug": "34080497-sri-lanka-masters-v-west-indies-masters",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240245270",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "10",
+			"bet_delay": 6,
+			"market_internal_id": 863537,
+			"isMatchLive": true,
+			"sport_name": "cricket",
+			"inplay": true,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 80417666,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.86,
+								"s": "14730.00"
+							},
+							{
+								"p": 1.84,
+								"s": "2303.00"
+							},
+							{
+								"p": 1.83,
+								"s": "759.00"
+							}
+						],
+						"l": [
+							{
+								"p": 1.87,
+								"s": "250429.00"
+							},
+							{
+								"p": 1.88,
+								"s": "308077.00"
+							},
+							{
+								"p": 1.89,
+								"s": "26705.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 80417667,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 2.16,
+								"s": "10300.00"
+							},
+							{
+								"p": 2.14,
+								"s": "219037.00"
+							},
+							{
+								"p": 2.12,
+								"s": "297308.00"
+							}
+						],
+						"l": [
+							{
+								"p": 2.18,
+								"s": "14304.00"
+							},
+							{
+								"p": 2.2,
+								"s": "836.00"
+							},
+							{
+								"p": 2.22,
+								"s": "226.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Sri Lanka Masters",
+					"SID": 80417666
+				},
+				{
+					"RN": "West Indies Masters",
+					"SID": 80417667
+				}
+			]
+		},
+		{
+			"matchId": 247556,
+			"league_name": "Women's Premier League",
+			"event_id": "34089596",
+			"sport_id": 4,
+			"league_id": 12559935,
+			"event_name": "Up Warriorz v Mumbai Indians",
+			"event_date": "2025-03-06T14:00:00.000Z",
+			"slug": "34089596-up-warriorz-w-v-mumbai-indians-w",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240368130",
+			"min_stake": 100,
+			"max_stake": 10000,
+			"max_market_limit": null,
+			"odd_limit": "20",
+			"bet_delay": 6,
+			"market_internal_id": 876056,
+			"isMatchLive": true,
+			"sport_name": "cricket",
+			"inplay": true,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 66678200,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 2.38,
+								"s": "294577.00"
+							},
+							{
+								"p": 2.36,
+								"s": "26285.00"
+							},
+							{
+								"p": 2.34,
+								"s": "126086.00"
+							}
+						],
+						"l": [
+							{
+								"p": 2.4,
+								"s": "694990.00"
+							},
+							{
+								"p": 2.42,
+								"s": "1127336.00"
+							},
+							{
+								"p": 2.44,
+								"s": "828361.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 67071071,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.72,
+								"s": "967332.00"
+							},
+							{
+								"p": 1.71,
+								"s": "1579134.00"
+							},
+							{
+								"p": 1.7,
+								"s": "1207766.00"
+							}
+						],
+						"l": [
+							{
+								"p": 1.73,
+								"s": "421753.00"
+							},
+							{
+								"p": 1.74,
+								"s": "170423.00"
+							},
+							{
+								"p": 1.75,
+								"s": "619311.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Up Warriorz W",
+					"SID": 66678200
+				},
+				{
+					"RN": "Mumbai Indians W",
+					"SID": 67071071
+				}
+			]
+		},
+		{
+			"matchId": 250483,
+			"league_name": "Exclusive League",
+			"event_id": "1741183209106",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Quetta Gladiators Srl vs. Karachi Kings Srl",
+			"event_date": "2025-03-06T14:00:00.000Z",
+			"slug": "1741183209106-quetta-gladiators-srl-vs--karachi-kings-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": true,
+			"sport_name": "cricket",
+			"inplay": true,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 250555,
+			"league_name": "Exclusive League",
+			"event_id": "1741190408962",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Joburg Super Kings Srl vs. Pretoria Capitals Srl",
+			"event_date": "2025-03-06T16:00:00.000Z",
+			"slug": "1741190408962-joburg-super-kings-srl-vs--pretoria-capitals-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 250646,
+			"league_name": "Exclusive League",
+			"event_id": "1741197607902",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Sunrisers Hyderabad SRL vs. Gujarat Titans Srl",
+			"event_date": "2025-03-06T18:00:00.000Z",
+			"slug": "1741197607902-sunrisers-hyderabad-srl-vs--gujarat-titans-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 251031,
+			"league_name": "Exclusive League",
+			"event_id": "1741204808578",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "New Zealand SRL vs. Bangladesh Srl",
+			"event_date": "2025-03-06T20:00:00.000Z",
+			"slug": "1741204808578-new-zealand-srl-vs--bangladesh-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 249329,
+			"league_name": "Womens One Day Internationals",
+			"event_id": "34092867",
+			"sport_id": 4,
+			"league_id": 9886504,
+			"event_name": "New Zealand Women v Sri Lanka Women",
+			"event_date": "2025-03-06T22:00:00.000Z",
+			"slug": "34092867-new-zealand-women-v-sri-lanka-women",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240421319",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "25",
+			"bet_delay": 6,
+			"market_internal_id": 880779,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 890530,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.55,
+								"s": "3022.00"
+							},
+							{
+								"p": 1.54,
+								"s": "50988.00"
+							},
+							{
+								"p": 1.52,
+								"s": "52157.00"
+							}
+						],
+						"l": [
+							{
+								"p": 1.58,
+								"s": "491.00"
+							},
+							{
+								"p": 1.59,
+								"s": "3776.00"
+							},
+							{
+								"p": 1.6,
+								"s": "26381.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 10787826,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 2.72,
+								"s": "285.00"
+							},
+							{
+								"p": 2.68,
+								"s": "2240.00"
+							},
+							{
+								"p": 2.66,
+								"s": "18079.00"
+							}
+						],
+						"l": [
+							{
+								"p": 2.82,
+								"s": "1661.00"
+							},
+							{
+								"p": 2.84,
+								"s": "1676.00"
+							},
+							{
+								"p": 2.86,
+								"s": "25791.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "New Zealand Women",
+					"SID": 890530
+				},
+				{
+					"RN": "Sri Lanka Women",
+					"SID": 10787826
+				}
+			]
+		},
+		{
+			"matchId": 251169,
+			"league_name": "Exclusive League",
+			"event_id": "1741212008415",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Guyana Amazon Warriors Srl vs. St Lucia Kings Srl",
+			"event_date": "2025-03-06T22:00:00.000Z",
+			"slug": "1741212008415-guyana-amazon-warriors-srl-vs--st-lucia-kings-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 251537,
+			"league_name": "Exclusive League",
+			"event_id": "1741226407535",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Islamabad United Srl vs. Peshawar Zalmi SRL",
+			"event_date": "2025-03-07T02:00:00.000Z",
+			"slug": "1741226407535-islamabad-united-srl-vs--peshawar-zalmi-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 251685,
+			"league_name": "Exclusive League",
+			"event_id": "1741233607528",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Sydney Thunder Srl vs. Adelaide Strikers Srl",
+			"event_date": "2025-03-07T04:00:00.000Z",
+			"slug": "1741233607528-sydney-thunder-srl-vs--adelaide-strikers-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 250691,
+			"league_name": "Mumbai Premier League",
+			"event_id": "34096973",
+			"sport_id": 4,
+			"league_id": 12649341,
+			"event_name": "Sanpada Scorpions v Mira Bhayandar Lions",
+			"event_date": "2025-03-07T04:30:00.000Z",
+			"slug": "34096973-sanpada-scorpions-v-mira-bhayandar-lions",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240486563",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "10",
+			"bet_delay": 6,
+			"market_internal_id": 883504,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 65958743,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 65958740,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Sanpada Scorpions",
+					"SID": 65958743
+				},
+				{
+					"RN": "Mira Bhayandar Lions",
+					"SID": 65958740
+				}
+			]
+		},
+		{
+			"matchId": 251788,
+			"league_name": "Exclusive League",
+			"event_id": "1741240808145",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Royal Challengers Bangalore SRL vs. Kolkata Knight Riders SRL",
+			"event_date": "2025-03-07T06:00:00.000Z",
+			"slug": "1741240808145-royal-challengers-bangalore-srl-vs--kolkata-knight-riders-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 250690,
+			"league_name": "ICC Cricket World Cup League 2",
+			"event_id": "34096673",
+			"sport_id": 4,
+			"league_id": 12649673,
+			"event_name": "Namibia v Netherlands",
+			"event_date": "2025-03-07T07:30:00.000Z",
+			"slug": "34096673-namibia-v-netherlands",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240480462",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": 300000,
+			"odd_limit": "3",
+			"bet_delay": 6,
+			"market_internal_id": 883500,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 144199,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 2.46,
+								"s": "170.00"
+							},
+							{
+								"p": 2.26,
+								"s": "715.00"
+							},
+							{
+								"p": 2.24,
+								"s": "2514.00"
+							}
+						],
+						"l": [
+							{
+								"p": 2.74,
+								"s": "227.00"
+							},
+							{
+								"p": 2.8,
+								"s": "4090.00"
+							},
+							{
+								"p": 2.92,
+								"s": "147.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 228749,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.57,
+								"s": "395.00"
+							},
+							{
+								"p": 1.56,
+								"s": "7340.00"
+							},
+							{
+								"p": 1.52,
+								"s": "283.00"
+							}
+						],
+						"l": [
+							{
+								"p": 1.68,
+								"s": "249.00"
+							},
+							{
+								"p": 1.8,
+								"s": "4026.00"
+							},
+							{
+								"p": 1.87,
+								"s": "147.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Namibia",
+					"SID": 144199
+				},
+				{
+					"RN": "Netherlands",
+					"SID": 228749
+				}
+			]
+		},
+		{
+			"matchId": 251807,
+			"league_name": "Exclusive League",
+			"event_id": "1741248007288",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "India SRL vs. England SRL",
+			"event_date": "2025-03-07T08:00:00.000Z",
+			"slug": "1741248007288-india-srl-vs--england-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 251952,
+			"league_name": "Exclusive League",
+			"event_id": "1741255207645",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Melbourne Stars SRL vs. Brisbane Heat Srl",
+			"event_date": "2025-03-07T10:00:00.000Z",
+			"slug": "1741255207645-melbourne-stars-srl-vs--brisbane-heat-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 247702,
+			"league_name": "CSA Provincial One-Day Challenge Div 1",
+			"event_id": "34089601",
+			"sport_id": 4,
+			"league_id": 12542740,
+			"event_name": "Dolphins v Knights",
+			"event_date": "2025-03-07T11:00:00.000Z",
+			"slug": "34089601-dolphins-v-knights",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240368598",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": 300000,
+			"odd_limit": "3",
+			"bet_delay": 6,
+			"market_internal_id": 876377,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 4294273,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.83,
+								"s": "2417.00"
+							},
+							{
+								"p": 1.74,
+								"s": "100.00"
+							},
+							{
+								"p": 1.4,
+								"s": "274.00"
+							}
+						],
+						"l": [
+							{
+								"p": 2.36,
+								"s": "2012.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 5045297,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.74,
+								"s": "2728.00"
+							},
+							{
+								"p": 1.4,
+								"s": "197.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 2.2,
+								"s": "2011.00"
+							},
+							{
+								"p": 2.58,
+								"s": "123.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Dolphins",
+					"SID": 4294273
+				},
+				{
+					"RN": "Knights",
+					"SID": 5045297
+				}
+			]
+		},
+		{
+			"matchId": 252080,
+			"league_name": "Exclusive League",
+			"event_id": "1741262407901",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Rajasthan Royals SRL vs. Lucknow Super Giants Srl",
+			"event_date": "2025-03-07T12:00:00.000Z",
+			"slug": "1741262407901-rajasthan-royals-srl-vs--lucknow-super-giants-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 250692,
+			"league_name": "Mumbai Premier League",
+			"event_id": "34096979",
+			"sport_id": 4,
+			"league_id": 12649341,
+			"event_name": "Vashi Warriors v Koparkairne Titans",
+			"event_date": "2025-03-07T12:30:00.000Z",
+			"slug": "34096979-vashi-warriors-v-koparkairne-titans",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240486565",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "10",
+			"bet_delay": 6,
+			"market_internal_id": 883506,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 65994092,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							},
+							{
+								"p": 1.03,
+								"s": "20000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 65958741,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							},
+							{
+								"p": 55,
+								"s": "371.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Vashi Warriors",
+					"SID": 65994092
+				},
+				{
+					"RN": "Koparkairne Titans",
+					"SID": 65958741
+				}
+			]
+		},
+		{
+			"matchId": 247557,
+			"league_name": "Women's Premier League",
+			"event_id": "34089597",
+			"sport_id": 4,
+			"league_id": 12559935,
+			"event_name": "Gujarat Giants W v Delhi Capitals W",
+			"event_date": "2025-03-07T14:00:00.000Z",
+			"slug": "34089597-gujarat-giants-w-v-delhi-capitals-w",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240368202",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "20",
+			"bet_delay": 6,
+			"market_internal_id": 876060,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 66744658,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 2.16,
+								"s": "22302.00"
+							},
+							{
+								"p": 2.1,
+								"s": "11408.00"
+							},
+							{
+								"p": 1.86,
+								"s": "8990.00"
+							}
+						],
+						"l": [
+							{
+								"p": 2.38,
+								"s": "1890.00"
+							},
+							{
+								"p": 2.4,
+								"s": "4326.00"
+							},
+							{
+								"p": 2.52,
+								"s": "5863.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 66528615,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.73,
+								"s": "2600.00"
+							},
+							{
+								"p": 1.72,
+								"s": "6036.00"
+							},
+							{
+								"p": 1.66,
+								"s": "8900.00"
+							}
+						],
+						"l": [
+							{
+								"p": 1.86,
+								"s": "25899.00"
+							},
+							{
+								"p": 1.9,
+								"s": "318.00"
+							},
+							{
+								"p": 1.91,
+								"s": "12324.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Gujarat Giants W",
+					"SID": 66744658
+				},
+				{
+					"RN": "Delhi Capitals W",
+					"SID": 66528615
+				}
+			]
+		},
+		{
+			"matchId": 250697,
+			"league_name": "International T20 Masters League",
+			"event_id": "34096688",
+			"sport_id": 4,
+			"league_id": 12718614,
+			"event_name": "Australia Masters v South Africa Masters",
+			"event_date": "2025-03-07T14:00:00.000Z",
+			"slug": "34096688-australia-masters-v-south-africa-masters",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240480560",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "10",
+			"bet_delay": 6,
+			"market_internal_id": 883521,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 80417668,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.28,
+								"s": "12100.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							},
+							{
+								"p": 1.03,
+								"s": "20000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 1.41,
+								"s": "259.00"
+							},
+							{
+								"p": 1.45,
+								"s": "3200.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 80420397,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 3.4,
+								"s": "107.00"
+							},
+							{
+								"p": 3.2,
+								"s": "1450.00"
+							},
+							{
+								"p": 1.4,
+								"s": "197.00"
+							}
+						],
+						"l": [
+							{
+								"p": 4.6,
+								"s": "3367.00"
+							},
+							{
+								"p": 26,
+								"s": "5000.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Australia Masters",
+					"SID": 80417668
+				},
+				{
+					"RN": "South Africa Masters",
+					"SID": 80420397
+				}
+			]
+		},
+		{
+			"matchId": 252227,
+			"league_name": "Exclusive League",
+			"event_id": "1741269608923",
+			"sport_id": 4,
+			"league_id": 100000000048,
+			"event_name": "Karachi Kings Srl vs. Lahore Qalanders Srl",
+			"event_date": "2025-03-07T14:00:00.000Z",
+			"slug": "1741269608923-karachi-kings-srl-vs--lahore-qalanders-srl",
+			"has_bookmaker": 0,
+			"has_fancy": 0,
+			"has_3rdparty_Bookmaker": 0,
+			"has_3rdparty_Fancy": 0,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 1,
+			"accept_any_odds": 0,
+			"min_stake": 100,
+			"max_stake": null,
+			"max_market_limit": null,
+			"odd_limit": null,
+			"bet_delay": null,
+			"market_internal_id": null,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "SUSPENDED",
+			"runners": [],
+			"runnerNames": []
+		},
+		{
+			"matchId": 250693,
+			"league_name": "Mumbai Premier League",
+			"event_id": "34096254",
+			"sport_id": 4,
+			"league_id": 12649341,
+			"event_name": "Belapur Blasters v Ambernath Avengers",
+			"event_date": "2025-03-08T04:30:00.000Z",
+			"slug": "34096254-belapur-blasters-v-ambernath-avengers",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240477887",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "10",
+			"bet_delay": 6,
+			"market_internal_id": 883509,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 65994093,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 26,
+								"s": "5044.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							},
+							{
+								"p": 55,
+								"s": "371.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 65994090,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.4,
+								"s": "110.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							},
+							{
+								"p": 1.03,
+								"s": "20000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Belapur Blasters",
+					"SID": 65994093
+				},
+				{
+					"RN": "Ambernath Avengers",
+					"SID": 65994090
+				}
+			]
+		},
+		{
+			"matchId": 250694,
+			"league_name": "Mumbai Premier League",
+			"event_id": "34096271",
+			"sport_id": 4,
+			"league_id": 12649341,
+			"event_name": "Thane Tigers v Kalyan Tuskers",
+			"event_date": "2025-03-08T12:30:00.000Z",
+			"slug": "34096271-thane-tigers-v-kalyan-tuskers",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240477668",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "10",
+			"bet_delay": 6,
+			"market_internal_id": 883512,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 65958742,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 65994089,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Thane Tigers",
+					"SID": 65958742
+				},
+				{
+					"RN": "Kalyan Tuskers",
+					"SID": 65994089
+				}
+			]
+		},
+		{
+			"matchId": 250696,
+			"league_name": "International T20 Masters League",
+			"event_id": "34096298",
+			"sport_id": 4,
+			"league_id": 12718614,
+			"event_name": "India Masters v West Indies Masters",
+			"event_date": "2025-03-08T14:00:00.000Z",
+			"slug": "34096298-india-masters-v-west-indies-masters",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240477364",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "10",
+			"bet_delay": 6,
+			"market_internal_id": 883518,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 80417665,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.38,
+								"s": "3077.00"
+							},
+							{
+								"p": 1.2,
+								"s": "10000.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 1.8,
+								"s": "1677.00"
+							},
+							{
+								"p": 1.81,
+								"s": "43248.00"
+							},
+							{
+								"p": 2,
+								"s": "2000.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 80417667,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 2.24,
+								"s": "2734.00"
+							},
+							{
+								"p": 2.22,
+								"s": "33862.00"
+							},
+							{
+								"p": 2,
+								"s": "2000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.65,
+								"s": "1163.00"
+							},
+							{
+								"p": 6,
+								"s": "2000.00"
+							},
+							{
+								"p": 26,
+								"s": "5000.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "India Masters",
+					"SID": 80417665
+				},
+				{
+					"RN": "West Indies Masters",
+					"SID": 80417667
+				}
+			]
+		},
+		{
+			"matchId": 250701,
+			"league_name": "Women's Premier League",
+			"event_id": "34096289",
+			"sport_id": 4,
+			"league_id": 12559935,
+			"event_name": "Up Warriorz W v Royal Challengers Bangalore W",
+			"event_date": "2025-03-08T14:00:00.000Z",
+			"slug": "34096289-up-warriorz-w-v-royal-challengers-bangalore-w",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240479010",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "20",
+			"bet_delay": 6,
+			"market_internal_id": 883539,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 66678200,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2794.00"
+							},
+							{
+								"p": 1.4,
+								"s": "179.00"
+							},
+							{
+								"p": 1.17,
+								"s": "29412.00"
+							}
+						],
+						"l": [
+							{
+								"p": 2.9,
+								"s": "1207.00"
+							},
+							{
+								"p": 2.94,
+								"s": "311.00"
+							},
+							{
+								"p": 2.98,
+								"s": "4510.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 66273673,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.53,
+								"s": "2250.00"
+							},
+							{
+								"p": 1.52,
+								"s": "601.00"
+							},
+							{
+								"p": 1.51,
+								"s": "8900.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1142.00"
+							},
+							{
+								"p": 7,
+								"s": "4988.00"
+							},
+							{
+								"p": 7.4,
+								"s": "1411.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Up Warriorz W",
+					"SID": 66678200
+				},
+				{
+					"RN": "Royal Challengers Bangalore W",
+					"SID": 66273673
+				}
+			]
+		},
+		{
+			"matchId": 250679,
+			"league_name": "CSA One-Day Challenge Div 2",
+			"event_id": "34096390",
+			"sport_id": 4,
+			"league_id": 12717744,
+			"event_name": "Eastern Storm v Limpopo",
+			"event_date": "2025-03-09T08:00:00.000Z",
+			"slug": "34096390-eastern-storm-v-limpopo",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240477358",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": 200000,
+			"odd_limit": "3",
+			"bet_delay": 6,
+			"market_internal_id": 883470,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 60551673,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 41151668,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Eastern Storm",
+					"SID": 60551673
+				},
+				{
+					"RN": "Limpopo",
+					"SID": 41151668
+				}
+			]
+		},
+		{
+			"matchId": 250680,
+			"league_name": "CSA One-Day Challenge Div 2",
+			"event_id": "34096144",
+			"sport_id": 4,
+			"league_id": 12717744,
+			"event_name": "Northern Cape v Mpumalanga Rhinos",
+			"event_date": "2025-03-09T08:00:00.000Z",
+			"slug": "34096144-northern-cape-v-mpumalanga-rhinos",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240477360",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": 200000,
+			"odd_limit": "3",
+			"bet_delay": 6,
+			"market_internal_id": 883474,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 11779998,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 60662897,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Northern Cape",
+					"SID": 11779998
+				},
+				{
+					"RN": "Mpumalanga Rhinos",
+					"SID": 60662897
+				}
+			]
+		},
+		{
+			"matchId": 250681,
+			"league_name": "CSA One-Day Challenge Div 2",
+			"event_id": "34097027",
+			"sport_id": 4,
+			"league_id": 12717744,
+			"event_name": "Garden Route Badgers v Eastern Cape Linyathi",
+			"event_date": "2025-03-09T08:00:00.000Z",
+			"slug": "34097027-garden-route-badgers-v-eastern-cape-linyathi",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240486355",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": 200000,
+			"odd_limit": "3",
+			"bet_delay": 6,
+			"market_internal_id": 883477,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 60551674,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 60551675,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2745.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1122.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Garden Route Badgers",
+					"SID": 60551674
+				},
+				{
+					"RN": "Eastern Cape Linyathi",
+					"SID": 60551675
+				}
+			]
+		},
+		{
+			"matchId": 250684,
+			"league_name": "CSA Provincial One-Day Challenge Div 1",
+			"event_id": "34096127",
+			"sport_id": 4,
+			"league_id": 12542740,
+			"event_name": "Boland v Western Province",
+			"event_date": "2025-03-09T08:00:00.000Z",
+			"slug": "34096127-boland-v-western-province",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240486539",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": 300000,
+			"odd_limit": "3",
+			"bet_delay": 6,
+			"market_internal_id": 883487,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 225069,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2912.00"
+							},
+							{
+								"p": 1.4,
+								"s": "317.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1240.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 105668,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2912.00"
+							},
+							{
+								"p": 1.4,
+								"s": "317.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1240.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Boland",
+					"SID": 225069
+				},
+				{
+					"RN": "Western Province",
+					"SID": 105668
+				}
+			]
+		},
+		{
+			"matchId": 250685,
+			"league_name": "CSA Provincial One-Day Challenge Div 1",
+			"event_id": "34096135",
+			"sport_id": 4,
+			"league_id": 12542740,
+			"event_name": "Warriors v Lions",
+			"event_date": "2025-03-09T08:00:00.000Z",
+			"slug": "34096135-warriors-v-lions",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240477456",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": 300000,
+			"odd_limit": "3",
+			"bet_delay": 6,
+			"market_internal_id": 883490,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 4297012,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2794.00"
+							},
+							{
+								"p": 1.4,
+								"s": "196.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1220.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 4294272,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.41,
+								"s": "2863.00"
+							},
+							{
+								"p": 1.4,
+								"s": "317.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.45,
+								"s": "1142.00"
+							},
+							{
+								"p": 26,
+								"s": "5079.00"
+							},
+							{
+								"p": 36,
+								"s": "572.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Warriors",
+					"SID": 4297012
+				},
+				{
+					"RN": "Lions",
+					"SID": 4294272
+				}
+			]
+		},
+		{
+			"matchId": 250689,
+			"league_name": "ICC Champions Trophy",
+			"event_id": "34097381",
+			"sport_id": 4,
+			"league_id": 11271794,
+			"event_name": "India v New Zealand",
+			"event_date": "2025-03-09T09:00:00.000Z",
+			"slug": "34097381-india-v-new-zealand",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240493146",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "50",
+			"bet_delay": 6,
+			"market_internal_id": 883496,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 414464,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.44,
+								"s": "4192727.00"
+							},
+							{
+								"p": 1.43,
+								"s": "3608872.00"
+							},
+							{
+								"p": 1.42,
+								"s": "2528515.00"
+							}
+						],
+						"l": [
+							{
+								"p": 1.45,
+								"s": "1585504.00"
+							},
+							{
+								"p": 1.46,
+								"s": "3409566.00"
+							},
+							{
+								"p": 1.47,
+								"s": "242676.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 448,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 3.2,
+								"s": "1049695.00"
+							},
+							{
+								"p": 3.15,
+								"s": "1351305.00"
+							},
+							{
+								"p": 3.1,
+								"s": "5821.00"
+							}
+						],
+						"l": [
+							{
+								"p": 3.25,
+								"s": "19246.00"
+							},
+							{
+								"p": 3.3,
+								"s": "1859574.00"
+							},
+							{
+								"p": 3.35,
+								"s": "1505488.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "India",
+					"SID": 414464
+				},
+				{
+					"RN": "New Zealand",
+					"SID": 448
+				}
+			]
+		},
+		{
+			"matchId": 250698,
+			"league_name": "International T20 Masters League",
+			"event_id": "34096366",
+			"sport_id": 4,
+			"league_id": 12718614,
+			"event_name": "Sri Lanka Masters v England Masters",
+			"event_date": "2025-03-10T14:00:00.000Z",
+			"slug": "34096366-sri-lanka-masters-v-england-masters",
+			"has_bookmaker": 1,
+			"has_fancy": 1,
+			"has_3rdparty_Bookmaker": 1,
+			"has_3rdparty_Fancy": 1,
+			"has_premium_fancy": 1,
+			"is_custom": 0,
+			"is_populer": 0,
+			"is_exclusive": 0,
+			"accept_any_odds": 1,
+			"market_id": "1.240477362",
+			"min_stake": 100,
+			"max_stake": 1,
+			"max_market_limit": null,
+			"odd_limit": "10",
+			"bet_delay": 6,
+			"market_internal_id": 883522,
+			"isMatchLive": false,
+			"sport_name": "cricket",
+			"inplay": false,
+			"status": "OPEN",
+			"runners": [
+				{
+					"sid": 80417666,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 1.13,
+								"s": "8656.00"
+							},
+							{
+								"p": 1.12,
+								"s": "10000.00"
+							},
+							{
+								"p": 1.04,
+								"s": "125000.00"
+							}
+						],
+						"l": [
+							{
+								"p": 1.82,
+								"s": "1050.00"
+							},
+							{
+								"p": 1.83,
+								"s": "2000.00"
+							},
+							{
+								"p": 1.88,
+								"s": "41532.00"
+							}
+						]
+					}
+				},
+				{
+					"sid": 80420082,
+					"s": "ACTIVE",
+					"ex": {
+						"b": [
+							{
+								"p": 2.22,
+								"s": "861.00"
+							},
+							{
+								"p": 2.2,
+								"s": "1664.00"
+							},
+							{
+								"p": 2.12,
+								"s": "36830.00"
+							}
+						],
+						"l": [
+							{
+								"p": 8.8,
+								"s": "1112.00"
+							},
+							{
+								"p": 9.4,
+								"s": "1191.00"
+							},
+							{
+								"p": 26,
+								"s": "5000.00"
+							}
+						]
+					}
+				}
+			],
+			"runnerNames": [
+				{
+					"RN": "Sri Lanka Masters",
+					"SID": 80417666
+				},
+				{
+					"RN": "England Masters",
+					"SID": 80420082
+				}
+			]
+		}
+	]
+}

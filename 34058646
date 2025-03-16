@@ -1,0 +1,1712 @@
+{
+    "success": true,
+    "message": "SUCCESS",
+    "data": {
+        "match": {
+            "leaguesId": 12375833,
+            "eventId": "34058646",
+            "eventName": "FC Copenhagen v Chelsea",
+            "slug": "34058646-fc-copenhagen-v-chelsea",
+            "eventDate": "2025-03-06T17:45:00.000Z",
+            "leaguesName": "UEFA Europa Conference League",
+            "sportName": "soccer",
+            "sportId": 1,
+            "hasBookmaker": 0,
+            "hasPremiumFancy": 1,
+            "hasFancy": 0,
+            "matchId": 250746,
+            "sportsradar_id": 58263821,
+            "tv_radar_id": null,
+            "inplay": 0,
+            "accept_any_odds": 0,
+            "is_exclusive": 0,
+            "sport_radar_sport_id": "1",
+            "fancyOddData": {},
+            "bookmakerOddData": {},
+            "matchOddData": [
+                {
+                    "id": 883872,
+                    "mid": "1.239902527",
+                    "st": "OPEN",
+                    "eventID": 34058646,
+                    "runners": [
+                        {
+                            "sid": 1222344,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 1.29,
+                                        "s": "28430.00"
+                                    },
+                                    {
+                                        "p": 1.28,
+                                        "s": "114212.00"
+                                    },
+                                    {
+                                        "p": 1.27,
+                                        "s": "322815.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 1.31,
+                                        "s": "71403.00"
+                                    },
+                                    {
+                                        "p": 1.32,
+                                        "s": "242489.00"
+                                    },
+                                    {
+                                        "p": 1.33,
+                                        "s": "137455.00"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "sid": 1222345,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 4.2,
+                                        "s": "76927.00"
+                                    },
+                                    {
+                                        "p": 4.1,
+                                        "s": "48877.00"
+                                    },
+                                    {
+                                        "p": 4,
+                                        "s": "35655.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 4.4,
+                                        "s": "4229.00"
+                                    },
+                                    {
+                                        "p": 4.5,
+                                        "s": "19457.00"
+                                    },
+                                    {
+                                        "p": 4.6,
+                                        "s": "31991.00"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "stake_limit": 1,
+                    "min_stake_limit": 100,
+                    "max_market_limit": 0,
+                    "odd_limit": "3",
+                    "msg": "",
+                    "bet_delay": 6,
+                    "inplay_stake_limit": 25000,
+                    "runnerName": [
+                        {
+                            "RN": "Under 3.5 Goals",
+                            "SID": 1222344
+                        },
+                        {
+                            "RN": "Over 3.5 Goals",
+                            "SID": 1222345
+                        }
+                    ],
+                    "betFetchTime": 1741282550,
+                    "marketName": "Over/Under 3.5 Goals"
+                },
+                {
+                    "id": 883865,
+                    "mid": "1.239902463",
+                    "st": "OPEN",
+                    "eventID": 34058646,
+                    "runners": [
+                        {
+                            "sid": 47972,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 1.78,
+                                        "s": "329.00"
+                                    },
+                                    {
+                                        "p": 1.77,
+                                        "s": "1098.00"
+                                    },
+                                    {
+                                        "p": 1.76,
+                                        "s": "37759.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 1.8,
+                                        "s": "70954.00"
+                                    },
+                                    {
+                                        "p": 1.81,
+                                        "s": "50160.00"
+                                    },
+                                    {
+                                        "p": 1.82,
+                                        "s": "91175.00"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "sid": 47973,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 2.26,
+                                        "s": "41697.00"
+                                    },
+                                    {
+                                        "p": 2.24,
+                                        "s": "39500.00"
+                                    },
+                                    {
+                                        "p": 2.22,
+                                        "s": "60451.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 2.3,
+                                        "s": "6917.00"
+                                    },
+                                    {
+                                        "p": 2.32,
+                                        "s": "45479.00"
+                                    },
+                                    {
+                                        "p": 2.34,
+                                        "s": "34708.00"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "stake_limit": 1,
+                    "min_stake_limit": 100,
+                    "max_market_limit": 0,
+                    "odd_limit": "5",
+                    "msg": "",
+                    "bet_delay": 6,
+                    "inplay_stake_limit": 50000,
+                    "runnerName": [
+                        {
+                            "RN": "Under 2.5 Goals",
+                            "SID": 47972
+                        },
+                        {
+                            "RN": "Over 2.5 Goals",
+                            "SID": 47973
+                        }
+                    ],
+                    "betFetchTime": 1741282550,
+                    "marketName": "Over/Under 2.5 Goals"
+                },
+                {
+                    "id": 883857,
+                    "mid": "1.239902466",
+                    "st": "OPEN",
+                    "eventID": 34058646,
+                    "runners": [
+                        {
+                            "sid": 1221385,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 3.3,
+                                        "s": "2516.00"
+                                    },
+                                    {
+                                        "p": 3.25,
+                                        "s": "42657.00"
+                                    },
+                                    {
+                                        "p": 3.2,
+                                        "s": "44909.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 3.4,
+                                        "s": "43855.00"
+                                    },
+                                    {
+                                        "p": 3.45,
+                                        "s": "44672.00"
+                                    },
+                                    {
+                                        "p": 3.5,
+                                        "s": "39074.00"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "sid": 1221386,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 1.42,
+                                        "s": "105005.00"
+                                    },
+                                    {
+                                        "p": 1.41,
+                                        "s": "61831.00"
+                                    },
+                                    {
+                                        "p": 1.4,
+                                        "s": "145496.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 1.43,
+                                        "s": "100.00"
+                                    },
+                                    {
+                                        "p": 1.44,
+                                        "s": "57113.00"
+                                    },
+                                    {
+                                        "p": 1.45,
+                                        "s": "95939.00"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "stake_limit": 1,
+                    "min_stake_limit": 100,
+                    "max_market_limit": 0,
+                    "odd_limit": "5",
+                    "msg": "",
+                    "bet_delay": 6,
+                    "inplay_stake_limit": 50000,
+                    "runnerName": [
+                        {
+                            "RN": "Under 1.5 Goals",
+                            "SID": 1221385
+                        },
+                        {
+                            "RN": "Over 1.5 Goals",
+                            "SID": 1221386
+                        }
+                    ],
+                    "betFetchTime": 1741282550,
+                    "marketName": "Over/Under 1.5 Goals"
+                },
+                {
+                    "id": 883854,
+                    "mid": "1.239902562",
+                    "st": "OPEN",
+                    "eventID": 34058646,
+                    "runners": [
+                        {
+                            "sid": 52533356,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 3.55,
+                                        "s": "667209.00"
+                                    },
+                                    {
+                                        "p": 3.5,
+                                        "s": "191022.00"
+                                    },
+                                    {
+                                        "p": 3.45,
+                                        "s": "61565.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 3.65,
+                                        "s": "189694.00"
+                                    },
+                                    {
+                                        "p": 3.7,
+                                        "s": "43446.00"
+                                    },
+                                    {
+                                        "p": 3.75,
+                                        "s": "207314.00"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "sid": 55190,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 1.38,
+                                        "s": "222934.00"
+                                    },
+                                    {
+                                        "p": 1.37,
+                                        "s": "398164.00"
+                                    },
+                                    {
+                                        "p": 1.36,
+                                        "s": "678770.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 1.39,
+                                        "s": "867659.00"
+                                    },
+                                    {
+                                        "p": 1.4,
+                                        "s": "1307947.00"
+                                    },
+                                    {
+                                        "p": 1.41,
+                                        "s": "217348.00"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "stake_limit": 1,
+                    "min_stake_limit": 100,
+                    "max_market_limit": 0,
+                    "odd_limit": "3",
+                    "msg": "",
+                    "bet_delay": 6,
+                    "inplay_stake_limit": 10000,
+                    "runnerName": [
+                        {
+                            "RN": "FC Copenhagen",
+                            "SID": 52533356
+                        },
+                        {
+                            "RN": "Chelsea",
+                            "SID": 55190
+                        }
+                    ],
+                    "betFetchTime": 1741282550,
+                    "marketName": "Draw no Bet"
+                },
+                {
+                    "id": 883853,
+                    "mid": "1.239902479",
+                    "st": "OPEN",
+                    "eventID": 34058646,
+                    "runners": [
+                        {
+                            "sid": 52533356,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 4.9,
+                                        "s": "267323.00"
+                                    },
+                                    {
+                                        "p": 4.8,
+                                        "s": "326721.00"
+                                    },
+                                    {
+                                        "p": 4.7,
+                                        "s": "212950.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 5,
+                                        "s": "100426.00"
+                                    },
+                                    {
+                                        "p": 5.1,
+                                        "s": "126015.00"
+                                    },
+                                    {
+                                        "p": 5.2,
+                                        "s": "34387.00"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "sid": 55190,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 1.9,
+                                        "s": "44587.00"
+                                    },
+                                    {
+                                        "p": 1.89,
+                                        "s": "140893.00"
+                                    },
+                                    {
+                                        "p": 1.88,
+                                        "s": "559165.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 1.91,
+                                        "s": "32677.00"
+                                    },
+                                    {
+                                        "p": 1.92,
+                                        "s": "333487.00"
+                                    },
+                                    {
+                                        "p": 1.93,
+                                        "s": "187207.00"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "sid": 58805,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 3.65,
+                                        "s": "86034.00"
+                                    },
+                                    {
+                                        "p": 3.6,
+                                        "s": "38082.00"
+                                    },
+                                    {
+                                        "p": 3.55,
+                                        "s": "122089.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 3.7,
+                                        "s": "133326.00"
+                                    },
+                                    {
+                                        "p": 3.75,
+                                        "s": "196406.00"
+                                    },
+                                    {
+                                        "p": 3.8,
+                                        "s": "243258.00"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "stake_limit": 1,
+                    "min_stake_limit": 100,
+                    "max_market_limit": 0,
+                    "odd_limit": "10",
+                    "msg": "",
+                    "bet_delay": 6,
+                    "inplay_stake_limit": 100000,
+                    "runnerName": [
+                        {
+                            "RN": "FC Copenhagen",
+                            "SID": 52533356
+                        },
+                        {
+                            "RN": "Chelsea",
+                            "SID": 55190
+                        },
+                        {
+                            "RN": "The Draw",
+                            "SID": 58805
+                        }
+                    ],
+                    "betFetchTime": 1741282550,
+                    "marketName": "Match Odds"
+                },
+                {
+                    "id": 883852,
+                    "mid": "1.239902484",
+                    "st": "OPEN",
+                    "eventID": 34058646,
+                    "runners": [
+                        {
+                            "sid": 5851482,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 11,
+                                        "s": "10475.00"
+                                    },
+                                    {
+                                        "p": 10.5,
+                                        "s": "8342.00"
+                                    },
+                                    {
+                                        "p": 10,
+                                        "s": "11385.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 12,
+                                        "s": "18993.00"
+                                    },
+                                    {
+                                        "p": 12.5,
+                                        "s": "30021.00"
+                                    },
+                                    {
+                                        "p": 13,
+                                        "s": "16840.00"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "sid": 5851483,
+                            "s": "ACTIVE",
+                            "ex": {
+                                "b": [
+                                    {
+                                        "p": 1.09,
+                                        "s": "483946.00"
+                                    },
+                                    {
+                                        "p": 1.08,
+                                        "s": "689180.00"
+                                    },
+                                    {
+                                        "p": 1.07,
+                                        "s": "657563.00"
+                                    }
+                                ],
+                                "l": [
+                                    {
+                                        "p": 1.1,
+                                        "s": "104749.00"
+                                    },
+                                    {
+                                        "p": 1.11,
+                                        "s": "123674.00"
+                                    },
+                                    {
+                                        "p": 1.12,
+                                        "s": "250628.00"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "stake_limit": 1,
+                    "min_stake_limit": 100,
+                    "max_market_limit": 0,
+                    "odd_limit": "5",
+                    "msg": "",
+                    "bet_delay": 6,
+                    "inplay_stake_limit": 50000,
+                    "runnerName": [
+                        {
+                            "RN": "Under 0.5 Goals",
+                            "SID": 5851482
+                        },
+                        {
+                            "RN": "Over 0.5 Goals",
+                            "SID": 5851483
+                        }
+                    ],
+                    "betFetchTime": 1741282550,
+                    "marketName": "Over/Under 0.5 Goals"
+                }
+            ]
+        },
+        "upcoming": [
+            {
+                "matchId": 250748,
+                "league_name": "UEFA Europa Conference League",
+                "event_id": "34058647",
+                "sport_id": 1,
+                "league_id": 12375833,
+                "event_name": "NK Celje v Lugano",
+                "event_date": "2025-03-06T20:00:00.000Z",
+                "slug": "34058647-nk-celje-v-lugano",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.239903315",
+                "min_stake": 100,
+                "max_stake": 1,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 883885,
+                "isMatchLive": false,
+                "sport_name": "soccer",
+                "inplay": false,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 3188553,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.82,
+                                    "s": "460.00"
+                                },
+                                {
+                                    "p": 2.8,
+                                    "s": "2821.00"
+                                },
+                                {
+                                    "p": 2.78,
+                                    "s": "31139.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.84,
+                                    "s": "3758.00"
+                                },
+                                {
+                                    "p": 2.86,
+                                    "s": "28492.00"
+                                },
+                                {
+                                    "p": 2.88,
+                                    "s": "34571.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 65780,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.76,
+                                    "s": "480.00"
+                                },
+                                {
+                                    "p": 2.74,
+                                    "s": "17683.00"
+                                },
+                                {
+                                    "p": 2.72,
+                                    "s": "24518.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.78,
+                                    "s": "1513.00"
+                                },
+                                {
+                                    "p": 2.8,
+                                    "s": "6634.00"
+                                },
+                                {
+                                    "p": 2.82,
+                                    "s": "2861.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.5,
+                                    "s": "50001.00"
+                                },
+                                {
+                                    "p": 3.45,
+                                    "s": "12649.00"
+                                },
+                                {
+                                    "p": 3.4,
+                                    "s": "14365.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.55,
+                                    "s": "18547.00"
+                                },
+                                {
+                                    "p": 3.6,
+                                    "s": "59166.00"
+                                },
+                                {
+                                    "p": 3.65,
+                                    "s": "113304.00"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "matchId": 250749,
+                "league_name": "UEFA Europa Conference League",
+                "event_id": "34058660",
+                "sport_id": 1,
+                "league_id": 12375833,
+                "event_name": "Borac Banja Luka v Rapid Vienna",
+                "event_date": "2025-03-06T20:00:00.000Z",
+                "slug": "34058660-borac-banja-luka-v-rapid-vienna",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.239903201",
+                "min_stake": 100,
+                "max_stake": 1,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 883867,
+                "isMatchLive": false,
+                "sport_name": "soccer",
+                "inplay": false,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 4837337,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.8,
+                                    "s": "35140.00"
+                                },
+                                {
+                                    "p": 3.75,
+                                    "s": "16378.00"
+                                },
+                                {
+                                    "p": 3.7,
+                                    "s": "23162.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.85,
+                                    "s": "11186.00"
+                                },
+                                {
+                                    "p": 3.9,
+                                    "s": "22058.00"
+                                },
+                                {
+                                    "p": 3.95,
+                                    "s": "40349.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 65350,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.3,
+                                    "s": "22987.00"
+                                },
+                                {
+                                    "p": 2.28,
+                                    "s": "52264.00"
+                                },
+                                {
+                                    "p": 2.26,
+                                    "s": "86740.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.32,
+                                    "s": "16376.00"
+                                },
+                                {
+                                    "p": 2.34,
+                                    "s": "21380.00"
+                                },
+                                {
+                                    "p": 2.36,
+                                    "s": "44164.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.25,
+                                    "s": "10399.00"
+                                },
+                                {
+                                    "p": 3.2,
+                                    "s": "79723.00"
+                                },
+                                {
+                                    "p": 3.15,
+                                    "s": "37184.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.3,
+                                    "s": "20407.00"
+                                },
+                                {
+                                    "p": 3.35,
+                                    "s": "69250.00"
+                                },
+                                {
+                                    "p": 3.4,
+                                    "s": "85257.00"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "matchId": 250752,
+                "league_name": "UEFA Europa Conference League",
+                "event_id": "34058669",
+                "sport_id": 1,
+                "league_id": 12375833,
+                "event_name": "Paphos FC v Djurgardens",
+                "event_date": "2025-03-06T20:00:00.000Z",
+                "slug": "34058669-paphos-fc-v-djurgardens",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.239902761",
+                "min_stake": 100,
+                "max_stake": 1,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 883869,
+                "isMatchLive": false,
+                "sport_name": "soccer",
+                "inplay": false,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 13824022,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.81,
+                                    "s": "10595.00"
+                                },
+                                {
+                                    "p": 1.8,
+                                    "s": "31349.00"
+                                },
+                                {
+                                    "p": 1.79,
+                                    "s": "20510.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 1.83,
+                                    "s": "2118.00"
+                                },
+                                {
+                                    "p": 1.84,
+                                    "s": "20905.00"
+                                },
+                                {
+                                    "p": 1.85,
+                                    "s": "70655.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 232104,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 5.4,
+                                    "s": "2753.00"
+                                },
+                                {
+                                    "p": 5.3,
+                                    "s": "13024.00"
+                                },
+                                {
+                                    "p": 5.2,
+                                    "s": "12948.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 5.5,
+                                    "s": "1274.00"
+                                },
+                                {
+                                    "p": 5.6,
+                                    "s": "2210.00"
+                                },
+                                {
+                                    "p": 5.7,
+                                    "s": "15892.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.7,
+                                    "s": "18684.00"
+                                },
+                                {
+                                    "p": 3.65,
+                                    "s": "9444.00"
+                                },
+                                {
+                                    "p": 3.6,
+                                    "s": "24685.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.75,
+                                    "s": "208.00"
+                                },
+                                {
+                                    "p": 3.8,
+                                    "s": "3304.00"
+                                },
+                                {
+                                    "p": 3.85,
+                                    "s": "9083.00"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "matchId": 250753,
+                "league_name": "UEFA Europa Conference League",
+                "event_id": "34058671",
+                "sport_id": 1,
+                "league_id": 12375833,
+                "event_name": "Jagiellonia Bialystock v Cercle Brugge",
+                "event_date": "2025-03-06T20:00:00.000Z",
+                "slug": "34058671-jagiellonia-bialystock-v-cercle-brugge",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.239902653",
+                "min_stake": 100,
+                "max_stake": 1,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 883890,
+                "isMatchLive": false,
+                "sport_name": "soccer",
+                "inplay": false,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 7391394,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.06,
+                                    "s": "24844.00"
+                                },
+                                {
+                                    "p": 2.04,
+                                    "s": "176034.00"
+                                },
+                                {
+                                    "p": 2.02,
+                                    "s": "45732.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.08,
+                                    "s": "8376.00"
+                                },
+                                {
+                                    "p": 2.1,
+                                    "s": "17381.00"
+                                },
+                                {
+                                    "p": 2.12,
+                                    "s": "33831.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 259394,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 4.3,
+                                    "s": "1630.00"
+                                },
+                                {
+                                    "p": 4.2,
+                                    "s": "8616.00"
+                                },
+                                {
+                                    "p": 4.1,
+                                    "s": "33760.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 4.4,
+                                    "s": "14343.00"
+                                },
+                                {
+                                    "p": 4.5,
+                                    "s": "60933.00"
+                                },
+                                {
+                                    "p": 4.6,
+                                    "s": "63070.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.5,
+                                    "s": "9332.00"
+                                },
+                                {
+                                    "p": 3.45,
+                                    "s": "14404.00"
+                                },
+                                {
+                                    "p": 3.4,
+                                    "s": "81421.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.55,
+                                    "s": "14600.00"
+                                },
+                                {
+                                    "p": 3.6,
+                                    "s": "75124.00"
+                                },
+                                {
+                                    "p": 3.65,
+                                    "s": "38862.00"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "matchId": 250746,
+                "league_name": "UEFA Europa Conference League",
+                "event_id": "34058646",
+                "sport_id": 1,
+                "league_id": 12375833,
+                "event_name": "FC Copenhagen v Chelsea",
+                "event_date": "2025-03-06T17:45:00.000Z",
+                "slug": "34058646-fc-copenhagen-v-chelsea",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.239902479",
+                "min_stake": 100,
+                "max_stake": 1,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 883853,
+                "isMatchLive": false,
+                "sport_name": "soccer",
+                "inplay": false,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 52533356,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 4.9,
+                                    "s": "267323.00"
+                                },
+                                {
+                                    "p": 4.8,
+                                    "s": "326721.00"
+                                },
+                                {
+                                    "p": 4.7,
+                                    "s": "212950.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 5,
+                                    "s": "100426.00"
+                                },
+                                {
+                                    "p": 5.1,
+                                    "s": "126015.00"
+                                },
+                                {
+                                    "p": 5.2,
+                                    "s": "34387.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 55190,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.9,
+                                    "s": "44587.00"
+                                },
+                                {
+                                    "p": 1.89,
+                                    "s": "140893.00"
+                                },
+                                {
+                                    "p": 1.88,
+                                    "s": "559165.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 1.91,
+                                    "s": "32677.00"
+                                },
+                                {
+                                    "p": 1.92,
+                                    "s": "333487.00"
+                                },
+                                {
+                                    "p": 1.93,
+                                    "s": "187207.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.65,
+                                    "s": "86034.00"
+                                },
+                                {
+                                    "p": 3.6,
+                                    "s": "38082.00"
+                                },
+                                {
+                                    "p": 3.55,
+                                    "s": "122089.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.7,
+                                    "s": "133326.00"
+                                },
+                                {
+                                    "p": 3.75,
+                                    "s": "196406.00"
+                                },
+                                {
+                                    "p": 3.8,
+                                    "s": "243258.00"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "matchId": 250747,
+                "league_name": "UEFA Europa Conference League",
+                "event_id": "34058665",
+                "sport_id": 1,
+                "league_id": 12375833,
+                "event_name": "Panathinaikos v Fiorentina",
+                "event_date": "2025-03-06T17:45:00.000Z",
+                "slug": "34058665-panathinaikos-v-fiorentina",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.239902977",
+                "min_stake": 100,
+                "max_stake": 1,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 883862,
+                "isMatchLive": false,
+                "sport_name": "soccer",
+                "inplay": false,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 50334,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.2,
+                                    "s": "8860.00"
+                                },
+                                {
+                                    "p": 3.15,
+                                    "s": "27191.00"
+                                },
+                                {
+                                    "p": 3.1,
+                                    "s": "92584.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.25,
+                                    "s": "145446.00"
+                                },
+                                {
+                                    "p": 3.3,
+                                    "s": "376155.00"
+                                },
+                                {
+                                    "p": 3.35,
+                                    "s": "182482.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 676467,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.72,
+                                    "s": "29851.00"
+                                },
+                                {
+                                    "p": 2.7,
+                                    "s": "119166.00"
+                                },
+                                {
+                                    "p": 2.68,
+                                    "s": "72854.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.74,
+                                    "s": "3000.00"
+                                },
+                                {
+                                    "p": 2.76,
+                                    "s": "30644.00"
+                                },
+                                {
+                                    "p": 2.78,
+                                    "s": "45314.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.1,
+                                    "s": "253478.00"
+                                },
+                                {
+                                    "p": 3.05,
+                                    "s": "245499.00"
+                                },
+                                {
+                                    "p": 3,
+                                    "s": "64187.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.15,
+                                    "s": "439455.00"
+                                },
+                                {
+                                    "p": 3.2,
+                                    "s": "252543.00"
+                                },
+                                {
+                                    "p": 3.25,
+                                    "s": "183521.00"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "matchId": 250750,
+                "league_name": "UEFA Europa Conference League",
+                "event_id": "34058668",
+                "sport_id": 1,
+                "league_id": 12375833,
+                "event_name": "Betis v Guimaraes",
+                "event_date": "2025-03-06T17:45:00.000Z",
+                "slug": "34058668-betis-v-guimaraes",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.239902869",
+                "min_stake": 100,
+                "max_stake": 1,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 883925,
+                "isMatchLive": false,
+                "sport_name": "soccer",
+                "inplay": false,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 44507,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.58,
+                                    "s": "282168.00"
+                                },
+                                {
+                                    "p": 1.57,
+                                    "s": "409787.00"
+                                },
+                                {
+                                    "p": 1.56,
+                                    "s": "441967.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 1.59,
+                                    "s": "112159.00"
+                                },
+                                {
+                                    "p": 1.6,
+                                    "s": "493812.00"
+                                },
+                                {
+                                    "p": 1.61,
+                                    "s": "215703.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 50085,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 7.6,
+                                    "s": "5177.00"
+                                },
+                                {
+                                    "p": 7.4,
+                                    "s": "109411.00"
+                                },
+                                {
+                                    "p": 7.2,
+                                    "s": "83421.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 7.8,
+                                    "s": "69299.00"
+                                },
+                                {
+                                    "p": 8,
+                                    "s": "63477.00"
+                                },
+                                {
+                                    "p": 8.2,
+                                    "s": "93914.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 4.2,
+                                    "s": "116213.00"
+                                },
+                                {
+                                    "p": 4.1,
+                                    "s": "52923.00"
+                                },
+                                {
+                                    "p": 4,
+                                    "s": "140508.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 4.3,
+                                    "s": "67124.00"
+                                },
+                                {
+                                    "p": 4.4,
+                                    "s": "261822.00"
+                                },
+                                {
+                                    "p": 4.5,
+                                    "s": "152243.00"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "matchId": 250751,
+                "league_name": "UEFA Europa Conference League",
+                "event_id": "34058661",
+                "sport_id": 1,
+                "league_id": 12375833,
+                "event_name": "Molde v Legia Warsaw",
+                "event_date": "2025-03-06T17:45:00.000Z",
+                "slug": "34058661-molde-v-legia-warsaw",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.239903089",
+                "min_stake": 100,
+                "max_stake": 1,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 883908,
+                "isMatchLive": false,
+                "sport_name": "soccer",
+                "inplay": false,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 31321,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.38,
+                                    "s": "279851.00"
+                                },
+                                {
+                                    "p": 2.36,
+                                    "s": "52716.00"
+                                },
+                                {
+                                    "p": 2.34,
+                                    "s": "105764.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.4,
+                                    "s": "85644.00"
+                                },
+                                {
+                                    "p": 2.42,
+                                    "s": "11714.00"
+                                },
+                                {
+                                    "p": 2.44,
+                                    "s": "183239.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 241091,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.35,
+                                    "s": "86621.00"
+                                },
+                                {
+                                    "p": 3.3,
+                                    "s": "132616.00"
+                                },
+                                {
+                                    "p": 3.25,
+                                    "s": "152235.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.4,
+                                    "s": "34925.00"
+                                },
+                                {
+                                    "p": 3.45,
+                                    "s": "66764.00"
+                                },
+                                {
+                                    "p": 3.5,
+                                    "s": "159411.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.45,
+                                    "s": "95702.00"
+                                },
+                                {
+                                    "p": 3.4,
+                                    "s": "123532.00"
+                                },
+                                {
+                                    "p": 3.35,
+                                    "s": "60672.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.5,
+                                    "s": "178676.00"
+                                },
+                                {
+                                    "p": 3.55,
+                                    "s": "66421.00"
+                                },
+                                {
+                                    "p": 3.6,
+                                    "s": "70172.00"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

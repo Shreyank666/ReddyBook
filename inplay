@@ -1,0 +1,3036 @@
+{
+    "success": true,
+    "message": "SUCCESS",
+    "data": {
+        "inplay": [
+            {
+                "matchId": 152179,
+                "league_name": "Delhi Assembly Election 2025",
+                "event_id": "666666",
+                "sport_id": 4345,
+                "league_id": 100000000091,
+                "event_name": "Delhi Assembly Election 2025",
+                "event_date": "2025-01-30T18:30:00.000Z",
+                "slug": "666666-delhi-assembly-election-2025",
+                "has_bookmaker": 1,
+                "has_fancy": 1,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 1,
+                "has_premium_fancy": 1,
+                "is_custom": 1,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "13.1735158329",
+                "min_stake": 100,
+                "inplay_stake_limit": null,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": "0",
+                "bet_delay": null,
+                "market_internal_id": 671977,
+                "isMatchLive": true,
+                "sport_name": "ELECTION",
+                "inplay": true,
+                "status": "OPEN",
+                "runnerNames": []
+            },
+            {
+                "matchId": 263264,
+                "league_name": "Dutch Eerste Divisie",
+                "event_id": "34112798",
+                "sport_id": 1,
+                "league_id": 11,
+                "event_name": "FC Eindhoven v Excelsior",
+                "event_date": "2025-03-14T19:00:00.000Z",
+                "slug": "34112798-fc-eindhoven-v-excelsior",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240739817",
+                "min_stake": 100,
+                "max_stake": 25000,
+                "max_market_limit": null,
+                "odd_limit": "6",
+                "bet_delay": 6,
+                "market_internal_id": 917441,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": [
+                    {
+                        "RN": "FC Eindhoven",
+                        "SID": 503439
+                    },
+                    {
+                        "RN": "Excelsior",
+                        "SID": 67164
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 228666,
+                "league_name": "Womens Premier League",
+                "event_id": "89898969",
+                "sport_id": 4344,
+                "league_id": 100000000099,
+                "event_name": "Womens Premier Winner Cup 2025",
+                "event_date": "2025-03-15T14:00:00.000Z",
+                "slug": "89898969-womens-premier-winner-cup-2025",
+                "has_bookmaker": 1,
+                "has_fancy": 1,
+                "has_3rdparty_Bookmaker": 1,
+                "has_3rdparty_Fancy": 1,
+                "has_premium_fancy": 1,
+                "is_custom": 1,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 1,
+                "market_id": "13.1739969418",
+                "min_stake": 100,
+                "inplay_stake_limit": null,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": "0",
+                "bet_delay": null,
+                "market_internal_id": 825197,
+                "isMatchLive": true,
+                "sport_name": "WINNER CUP",
+                "inplay": true,
+                "status": "OPEN",
+                "runnerNames": []
+            },
+            {
+                "matchId": 267224,
+                "league_name": "Exclusive League",
+                "event_id": "1742049367606",
+                "sport_id": 7511,
+                "league_id": 100000000060,
+                "event_name": "Kansas State Wildcats vs. Utah Utes",
+                "event_date": "2025-03-15T21:00:00.000Z",
+                "slug": "1742049367606-kansas-state-wildcats-vs--utah-utes",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Baseball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 267225,
+                "league_name": "Exclusive League",
+                "event_id": "1742049367950",
+                "sport_id": 7511,
+                "league_id": 100000000060,
+                "event_name": "California Golden Bears vs. Virginia Cavaliers",
+                "event_date": "2025-03-15T21:00:00.000Z",
+                "slug": "1742049367950-california-golden-bears-vs--virginia-cavaliers",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Baseball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 267232,
+                "league_name": "Exclusive League",
+                "event_id": "1742049549974",
+                "sport_id": 7511,
+                "league_id": 100000000060,
+                "event_name": "Stanford Cardinal vs. Duke Blue Devils",
+                "event_date": "2025-03-15T21:05:00.000Z",
+                "slug": "1742049549974-stanford-cardinal-vs--duke-blue-devils",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Baseball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 265874,
+                "league_name": "International Twenty20 Matches",
+                "event_id": "34124643",
+                "sport_id": 4,
+                "league_id": 9992899,
+                "event_name": "Profilbau Victoria Unit v Powergen Penal SC",
+                "event_date": "2025-03-15T22:00:00.000Z",
+                "slug": "34124643-profilbau-victoria-unit-v-powergen-penal-sc",
+                "has_bookmaker": 1,
+                "has_fancy": 1,
+                "has_3rdparty_Bookmaker": 1,
+                "has_3rdparty_Fancy": 1,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 1,
+                "market_id": "1.240899770",
+                "min_stake": 100,
+                "max_stake": 5000,
+                "max_market_limit": 200000,
+                "odd_limit": "3",
+                "bet_delay": 6,
+                "market_internal_id": 923449,
+                "isMatchLive": true,
+                "sport_name": "cricket",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 81343587,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.4,
+                                    "s": "276.00"
+                                },
+                                {
+                                    "p": 1.39,
+                                    "s": "19555.00"
+                                },
+                                {
+                                    "p": 1.38,
+                                    "s": "6480.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 1.43,
+                                    "s": "182.00"
+                                },
+                                {
+                                    "p": 1.45,
+                                    "s": "1345.00"
+                                },
+                                {
+                                    "p": 1.46,
+                                    "s": "1345.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 81343588,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.2,
+                                    "s": "688.00"
+                                },
+                                {
+                                    "p": 3.15,
+                                    "s": "623.00"
+                                },
+                                {
+                                    "p": 3.1,
+                                    "s": "638.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.5,
+                                    "s": "110.00"
+                                },
+                                {
+                                    "p": 3.55,
+                                    "s": "433.00"
+                                },
+                                {
+                                    "p": 3.6,
+                                    "s": "7124.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "Profilbau Victoria Unit",
+                        "SID": 81343587
+                    },
+                    {
+                        "RN": "Powergen Penal SC",
+                        "SID": 81343588
+                    }
+                ]
+            },
+            {
+                "matchId": 267240,
+                "league_name": "Exclusive League",
+                "event_id": "1742049730614",
+                "sport_id": 7511,
+                "league_id": 100000000060,
+                "event_name": "LA-Lafayette Ragin Cajuns vs. Troy Trojans",
+                "event_date": "2025-03-15T22:00:00.000Z",
+                "slug": "1742049730614-la-lafayette-ragin-cajuns-vs--troy-trojans",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Baseball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 264964,
+                "league_name": "US United Soccer League",
+                "event_id": "34112210",
+                "sport_id": 1,
+                "league_id": 12216637,
+                "event_name": "Miami FC v Indy Eleven",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "34112210-miami-fc-v-indy-eleven",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240734797",
+                "min_stake": 100,
+                "max_stake": 25000,
+                "max_market_limit": null,
+                "odd_limit": "6",
+                "bet_delay": 6,
+                "market_internal_id": 923048,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 3155358,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.1,
+                                    "s": "13612.00"
+                                },
+                                {
+                                    "p": 1.02,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 1.01,
+                                    "s": "3262.00"
+                                }
+                            ],
+                            "l": []
+                        }
+                    },
+                    {
+                        "sid": 8441182,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [],
+                            "l": [
+                                {
+                                    "p": 1.01,
+                                    "s": "102375.00"
+                                },
+                                {
+                                    "p": 1.02,
+                                    "s": "8607.00"
+                                },
+                                {
+                                    "p": 1.03,
+                                    "s": "2384.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 100,
+                                    "s": "1027.00"
+                                },
+                                {
+                                    "p": 50,
+                                    "s": "176.00"
+                                },
+                                {
+                                    "p": 34,
+                                    "s": "117.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 790,
+                                    "s": "138.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "Miami FC",
+                        "SID": 3155358
+                    },
+                    {
+                        "RN": "Indy Eleven",
+                        "SID": 8441182
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 264966,
+                "league_name": "US United Soccer League",
+                "event_id": "34112314",
+                "sport_id": 1,
+                "league_id": 12216637,
+                "event_name": "North Carolina FC v Loudoun United FC",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "34112314-north-carolina-fc-v-loudoun-united-fc",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240734887",
+                "min_stake": 100,
+                "max_stake": 25000,
+                "max_market_limit": null,
+                "odd_limit": "6",
+                "bet_delay": 6,
+                "market_internal_id": 923046,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 12713336,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 34,
+                                    "s": "327.00"
+                                },
+                                {
+                                    "p": 32,
+                                    "s": "387.00"
+                                },
+                                {
+                                    "p": 30,
+                                    "s": "200.00"
+                                }
+                            ],
+                            "l": []
+                        }
+                    },
+                    {
+                        "sid": 23254245,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.25,
+                                    "s": "193.00"
+                                },
+                                {
+                                    "p": 1.23,
+                                    "s": "1776.00"
+                                },
+                                {
+                                    "p": 1.22,
+                                    "s": "10542.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 1.27,
+                                    "s": "600.00"
+                                },
+                                {
+                                    "p": 1.28,
+                                    "s": "2006.00"
+                                },
+                                {
+                                    "p": 1.29,
+                                    "s": "5841.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 5.2,
+                                    "s": "704.00"
+                                },
+                                {
+                                    "p": 5.1,
+                                    "s": "1116.00"
+                                },
+                                {
+                                    "p": 5,
+                                    "s": "2498.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 5.5,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 5.6,
+                                    "s": "2389.00"
+                                },
+                                {
+                                    "p": 5.9,
+                                    "s": "200.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "North Carolina FC",
+                        "SID": 12713336
+                    },
+                    {
+                        "RN": "Loudoun United FC",
+                        "SID": 23254245
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 266064,
+                "league_name": "Mexican Liga MX",
+                "event_id": "34106987",
+                "sport_id": 1,
+                "league_id": 5627174,
+                "event_name": "Tigres v Santos Laguna",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "34106987-tigres-v-santos-laguna",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240637441",
+                "min_stake": 100,
+                "max_stake": 100000,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 924706,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 328916,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [],
+                            "l": [
+                                {
+                                    "p": 1.01,
+                                    "s": "181514.00"
+                                },
+                                {
+                                    "p": 1.02,
+                                    "s": "150700.00"
+                                },
+                                {
+                                    "p": 1.26,
+                                    "s": "33755.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 328957,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1000,
+                                    "s": "527.00"
+                                },
+                                {
+                                    "p": 100,
+                                    "s": "375.00"
+                                },
+                                {
+                                    "p": 95,
+                                    "s": "200.00"
+                                }
+                            ],
+                            "l": []
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 100,
+                                    "s": "329.00"
+                                },
+                                {
+                                    "p": 85,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 50,
+                                    "s": "200.00"
+                                }
+                            ],
+                            "l": []
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "Tigres",
+                        "SID": 328916
+                    },
+                    {
+                        "RN": "Santos Laguna",
+                        "SID": 328957
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 266163,
+                "league_name": "Exclusive League",
+                "event_id": "1741993229735",
+                "sport_id": 7524,
+                "league_id": 100000000063,
+                "event_name": "Montreal Canadiens vs. Florida Panthers",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "1741993229735-montreal-canadiens-vs--florida-panthers",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Ice Hockey",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266165,
+                "league_name": "Exclusive League",
+                "event_id": "1741993230324",
+                "sport_id": 7524,
+                "league_id": 100000000063,
+                "event_name": "Columbus Blue Jackets vs. New York Rangers",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "1741993230324-columbus-blue-jackets-vs--new-york-rangers",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Ice Hockey",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266167,
+                "league_name": "Exclusive League",
+                "event_id": "1741993242469",
+                "sport_id": 7522,
+                "league_id": 100000000062,
+                "event_name": "Detroit Pistons vs. Oklahoma City Thunder",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "1741993242469-detroit-pistons-vs--oklahoma-city-thunder",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Basketball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266833,
+                "league_name": "Exclusive League",
+                "event_id": "1742029236006",
+                "sport_id": 7522,
+                "league_id": 100000000062,
+                "event_name": "Guaiqueries De Margarita vs. Marinos de Anzoategui",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "1742029236006-guaiqueries-de-margarita-vs--marinos-de-anzoategui",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Basketball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266961,
+                "league_name": "Exclusive League",
+                "event_id": "1742036799214",
+                "sport_id": 998917,
+                "league_id": 100000000056,
+                "event_name": "Club Atletico Villa Dora vs. CA San Lorenzo de Almagro",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "1742036799214-club-atletico-villa-dora-vs--ca-san-lorenzo-de-almagro",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Volleyball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 267077,
+                "league_name": "Exclusive League",
+                "event_id": "1742045077933",
+                "sport_id": 998917,
+                "league_id": 100000000056,
+                "event_name": "Sacred Heart Pioneers vs. Fairleigh Dickinson Knights",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "1742045077933-sacred-heart-pioneers-vs--fairleigh-dickinson-knights",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Volleyball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 267241,
+                "league_name": "Exclusive League",
+                "event_id": "1742049730969",
+                "sport_id": 7511,
+                "league_id": 100000000060,
+                "event_name": "Ole Miss Rebels vs. Arkansas Razorbacks",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "1742049730969-ole-miss-rebels-vs--arkansas-razorbacks",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Baseball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 267269,
+                "league_name": "Exclusive League",
+                "event_id": "1742050466159",
+                "sport_id": 7524,
+                "league_id": 100000000063,
+                "event_name": "Colgate Raiders vs. Cornell Big Red",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "1742050466159-colgate-raiders-vs--cornell-big-red",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Ice Hockey",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 267585,
+                "league_name": "Exclusive League",
+                "event_id": "1742066832264",
+                "sport_id": 7524,
+                "league_id": 100000000063,
+                "event_name": "Erie Otters vs. Niagara Icedogs",
+                "event_date": "2025-03-15T23:00:00.000Z",
+                "slug": "1742066832264-erie-otters-vs--niagara-icedogs",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Ice Hockey",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266308,
+                "league_name": "Exclusive League",
+                "event_id": "1742011938232",
+                "sport_id": 7524,
+                "league_id": 100000000063,
+                "event_name": "Springfield Thunderbirds vs. Syracuse Crunch",
+                "event_date": "2025-03-15T23:05:00.000Z",
+                "slug": "1742011938232-springfield-thunderbirds-vs--syracuse-crunch",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Ice Hockey",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 264736,
+                "league_name": "Colombian Primera A",
+                "event_id": "34110508",
+                "sport_id": 1,
+                "league_id": 844197,
+                "event_name": "America de Cali S.A v Alianza FC Valledupar",
+                "event_date": "2025-03-15T23:20:00.000Z",
+                "slug": "34110508-america-de-cali-s-a-v-alianza-fc-valledupar",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240698453",
+                "min_stake": 100,
+                "max_stake": 25000,
+                "max_market_limit": null,
+                "odd_limit": "6",
+                "bet_delay": 6,
+                "market_internal_id": 920535,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 26076470,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [],
+                            "l": [
+                                {
+                                    "p": 1.01,
+                                    "s": "141772.00"
+                                },
+                                {
+                                    "p": 1.03,
+                                    "s": "194.00"
+                                },
+                                {
+                                    "p": 1.08,
+                                    "s": "25000.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 79102706,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 100,
+                                    "s": "1430.00"
+                                },
+                                {
+                                    "p": 1.02,
+                                    "s": "265.00"
+                                },
+                                {
+                                    "p": 1.01,
+                                    "s": "3262.00"
+                                }
+                            ],
+                            "l": []
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 110,
+                                    "s": "251.00"
+                                },
+                                {
+                                    "p": 100,
+                                    "s": "1155.00"
+                                },
+                                {
+                                    "p": 1.09,
+                                    "s": "150.00"
+                                }
+                            ],
+                            "l": []
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "America de Cali S.A",
+                        "SID": 26076470
+                    },
+                    {
+                        "RN": "Alianza FC Valledupar",
+                        "SID": 79102706
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 264965,
+                "league_name": "US United Soccer League",
+                "event_id": "34111818",
+                "sport_id": 1,
+                "league_id": 12216637,
+                "event_name": "Charleston Battery v Rhode Island FC",
+                "event_date": "2025-03-15T23:30:00.000Z",
+                "slug": "34111818-charleston-battery-v-rhode-island-fc",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240734984",
+                "min_stake": 100,
+                "max_stake": 25000,
+                "max_market_limit": null,
+                "odd_limit": "6",
+                "bet_delay": 6,
+                "market_internal_id": 923059,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 3155353,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.05,
+                                    "s": "100.00"
+                                },
+                                {
+                                    "p": 1.04,
+                                    "s": "8539.00"
+                                },
+                                {
+                                    "p": 1.03,
+                                    "s": "34109.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 1.11,
+                                    "s": "2338.00"
+                                },
+                                {
+                                    "p": 1.12,
+                                    "s": "26895.00"
+                                },
+                                {
+                                    "p": 1.13,
+                                    "s": "8130.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 67204678,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 60,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 55,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 14,
+                                    "s": "185.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 130,
+                                    "s": "170.00"
+                                },
+                                {
+                                    "p": 150,
+                                    "s": "297.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 11,
+                                    "s": "216.00"
+                                },
+                                {
+                                    "p": 10.5,
+                                    "s": "895.00"
+                                },
+                                {
+                                    "p": 10,
+                                    "s": "2972.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 36,
+                                    "s": "708.00"
+                                },
+                                {
+                                    "p": 46,
+                                    "s": "193.00"
+                                },
+                                {
+                                    "p": 95,
+                                    "s": "106.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "Charleston Battery",
+                        "SID": 3155353
+                    },
+                    {
+                        "RN": "Rhode Island FC",
+                        "SID": 67204678
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 267242,
+                "league_name": "Exclusive League",
+                "event_id": "1742049731821",
+                "sport_id": 7511,
+                "league_id": 100000000060,
+                "event_name": "Houston Cougars vs. Texas Tech Red Raiders",
+                "event_date": "2025-03-15T23:30:00.000Z",
+                "slug": "1742049731821-houston-cougars-vs--texas-tech-red-raiders",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Baseball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 264959,
+                "league_name": "US Major League Soccer",
+                "event_id": "34091356",
+                "sport_id": 1,
+                "league_id": 141,
+                "event_name": "DC Utd v CF Montreal",
+                "event_date": "2025-03-15T23:40:00.000Z",
+                "slug": "34091356-dc-utd-v-cf-montreal",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240393359",
+                "min_stake": 100,
+                "max_stake": 100000,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 922999,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 436099,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.04,
+                                    "s": "60204.00"
+                                },
+                                {
+                                    "p": 2.02,
+                                    "s": "146713.00"
+                                },
+                                {
+                                    "p": 2,
+                                    "s": "248106.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.06,
+                                    "s": "123.00"
+                                },
+                                {
+                                    "p": 2.08,
+                                    "s": "26486.00"
+                                },
+                                {
+                                    "p": 2.1,
+                                    "s": "235900.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 42741189,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 6.2,
+                                    "s": "34883.00"
+                                },
+                                {
+                                    "p": 6,
+                                    "s": "115449.00"
+                                },
+                                {
+                                    "p": 5.9,
+                                    "s": "22783.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 6.6,
+                                    "s": "16786.00"
+                                },
+                                {
+                                    "p": 6.8,
+                                    "s": "113822.00"
+                                },
+                                {
+                                    "p": 7,
+                                    "s": "83906.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.76,
+                                    "s": "16882.00"
+                                },
+                                {
+                                    "p": 2.74,
+                                    "s": "1513.00"
+                                },
+                                {
+                                    "p": 2.72,
+                                    "s": "135605.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.8,
+                                    "s": "26102.00"
+                                },
+                                {
+                                    "p": 2.82,
+                                    "s": "26010.00"
+                                },
+                                {
+                                    "p": 2.84,
+                                    "s": "25932.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "DC Utd",
+                        "SID": 436099
+                    },
+                    {
+                        "RN": "CF Montreal",
+                        "SID": 42741189
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 264960,
+                "league_name": "US Major League Soccer",
+                "event_id": "34091352",
+                "sport_id": 1,
+                "league_id": 141,
+                "event_name": "Charlotte FC v FC Cincinnati",
+                "event_date": "2025-03-15T23:40:00.000Z",
+                "slug": "34091352-charlotte-fc-v-fc-cincinnati",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240393557",
+                "min_stake": 100,
+                "max_stake": 100000,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 923010,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 42741188,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.08,
+                                    "s": "191.00"
+                                },
+                                {
+                                    "p": 1.07,
+                                    "s": "922443.00"
+                                },
+                                {
+                                    "p": 1.06,
+                                    "s": "1276838.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 1.09,
+                                    "s": "154350.00"
+                                },
+                                {
+                                    "p": 1.1,
+                                    "s": "327943.00"
+                                },
+                                {
+                                    "p": 1.11,
+                                    "s": "316345.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 10962520,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 60,
+                                    "s": "1000.00"
+                                },
+                                {
+                                    "p": 55,
+                                    "s": "1492.00"
+                                },
+                                {
+                                    "p": 50,
+                                    "s": "1792.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 95,
+                                    "s": "178.00"
+                                },
+                                {
+                                    "p": 100,
+                                    "s": "205.00"
+                                },
+                                {
+                                    "p": 110,
+                                    "s": "28474.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 15,
+                                    "s": "2237.00"
+                                },
+                                {
+                                    "p": 14.5,
+                                    "s": "7204.00"
+                                },
+                                {
+                                    "p": 14,
+                                    "s": "7589.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 16.5,
+                                    "s": "1152.00"
+                                },
+                                {
+                                    "p": 17,
+                                    "s": "13568.00"
+                                },
+                                {
+                                    "p": 17.5,
+                                    "s": "809.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "Charlotte FC",
+                        "SID": 42741188
+                    },
+                    {
+                        "RN": "FC Cincinnati",
+                        "SID": 10962520
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 264961,
+                "league_name": "US Major League Soccer",
+                "event_id": "34091360",
+                "sport_id": 1,
+                "league_id": 141,
+                "event_name": "New York City v New England",
+                "event_date": "2025-03-15T23:40:00.000Z",
+                "slug": "34091360-new-york-city-v-new-england",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240392891",
+                "min_stake": 100,
+                "max_stake": 100000,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 922990,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 9280784,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.32,
+                                    "s": "42411.00"
+                                },
+                                {
+                                    "p": 2.3,
+                                    "s": "159114.00"
+                                },
+                                {
+                                    "p": 2.28,
+                                    "s": "144923.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.38,
+                                    "s": "5544.00"
+                                },
+                                {
+                                    "p": 2.4,
+                                    "s": "49369.00"
+                                },
+                                {
+                                    "p": 2.42,
+                                    "s": "73760.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 171907,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 5,
+                                    "s": "3273.00"
+                                },
+                                {
+                                    "p": 4.9,
+                                    "s": "91136.00"
+                                },
+                                {
+                                    "p": 4.8,
+                                    "s": "66479.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 5.2,
+                                    "s": "13700.00"
+                                },
+                                {
+                                    "p": 5.3,
+                                    "s": "33544.00"
+                                },
+                                {
+                                    "p": 5.4,
+                                    "s": "143792.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.64,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 2.62,
+                                    "s": "6450.00"
+                                },
+                                {
+                                    "p": 2.6,
+                                    "s": "26065.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.68,
+                                    "s": "30476.00"
+                                },
+                                {
+                                    "p": 2.7,
+                                    "s": "95259.00"
+                                },
+                                {
+                                    "p": 2.72,
+                                    "s": "36001.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "New York City",
+                        "SID": 9280784
+                    },
+                    {
+                        "RN": "New England",
+                        "SID": 171907
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 266207,
+                "league_name": "Exclusive League",
+                "event_id": "1741996830714",
+                "sport_id": 7524,
+                "league_id": 100000000063,
+                "event_name": "Minnesota Wild vs. St. Louis Blues",
+                "event_date": "2025-03-16T00:00:00.000Z",
+                "slug": "1741996830714-minnesota-wild-vs--st--louis-blues",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Ice Hockey",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266243,
+                "league_name": "Exclusive League",
+                "event_id": "1741999713222",
+                "sport_id": 7522,
+                "league_id": 100000000062,
+                "event_name": "Memphis Grizzlies vs. Miami Heat",
+                "event_date": "2025-03-16T00:00:00.000Z",
+                "slug": "1741999713222-memphis-grizzlies-vs--miami-heat",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Basketball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266395,
+                "league_name": "Exclusive League",
+                "event_id": "1742024346935",
+                "sport_id": 4,
+                "league_id": 100000000048,
+                "event_name": "West Indies Srl vs. Pakistan SRL",
+                "event_date": "2025-03-16T00:00:00.000Z",
+                "slug": "1742024346935-west-indies-srl-vs--pakistan-srl",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "cricket",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266761,
+                "league_name": "US United Soccer League",
+                "event_id": "34112231",
+                "sport_id": 1,
+                "league_id": 12216637,
+                "event_name": "Tulsa Roughnecks FC v Tampa Bay Rowdies",
+                "event_date": "2025-03-16T00:00:00.000Z",
+                "slug": "34112231-tulsa-roughnecks-fc-v-tampa-bay-rowdies",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240735165",
+                "min_stake": 100,
+                "max_stake": 25000,
+                "max_market_limit": null,
+                "odd_limit": "6",
+                "bet_delay": 6,
+                "market_internal_id": 929303,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 9370034,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 5.2,
+                                    "s": "1231.00"
+                                },
+                                {
+                                    "p": 5.1,
+                                    "s": "1769.00"
+                                },
+                                {
+                                    "p": 5,
+                                    "s": "2685.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 5.9,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 6,
+                                    "s": "1001.00"
+                                },
+                                {
+                                    "p": 6.2,
+                                    "s": "9406.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 6295051,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.18,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 2.16,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 2.14,
+                                    "s": "357.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.38,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 2.4,
+                                    "s": "2667.00"
+                                },
+                                {
+                                    "p": 2.42,
+                                    "s": "3728.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.58,
+                                    "s": "634.00"
+                                },
+                                {
+                                    "p": 2.56,
+                                    "s": "13128.00"
+                                },
+                                {
+                                    "p": 2.54,
+                                    "s": "53499.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.78,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 2.82,
+                                    "s": "200.00"
+                                },
+                                {
+                                    "p": 2.88,
+                                    "s": "351.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "Tulsa Roughnecks FC",
+                        "SID": 9370034
+                    },
+                    {
+                        "RN": "Tampa Bay Rowdies",
+                        "SID": 6295051
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 266936,
+                "league_name": "Exclusive League",
+                "event_id": "1742035176958",
+                "sport_id": 998917,
+                "league_id": 100000000056,
+                "event_name": "Sada Cruzeiro vs. Sesi Bauru",
+                "event_date": "2025-03-16T00:00:00.000Z",
+                "slug": "1742035176958-sada-cruzeiro-vs--sesi-bauru",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Volleyball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 267031,
+                "league_name": "Exclusive League",
+                "event_id": "1742041671743",
+                "sport_id": 7522,
+                "league_id": 100000000062,
+                "event_name": "Indios de Mayaguez vs. Aguada Santeros",
+                "event_date": "2025-03-16T00:00:00.000Z",
+                "slug": "1742041671743-indios-de-mayaguez-vs--aguada-santeros",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Basketball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266749,
+                "league_name": "US Major League Soccer",
+                "event_id": "34091332",
+                "sport_id": 1,
+                "league_id": 141,
+                "event_name": "Kansas City v Minnesota Utd",
+                "event_date": "2025-03-16T00:25:00.000Z",
+                "slug": "34091332-kansas-city-v-minnesota-utd",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240393845",
+                "min_stake": 100,
+                "max_stake": 100000,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 929161,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 171912,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 4.9,
+                                    "s": "3005.00"
+                                },
+                                {
+                                    "p": 4.8,
+                                    "s": "12104.00"
+                                },
+                                {
+                                    "p": 4.7,
+                                    "s": "113607.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 5,
+                                    "s": "3380.00"
+                                },
+                                {
+                                    "p": 5.1,
+                                    "s": "26778.00"
+                                },
+                                {
+                                    "p": 5.2,
+                                    "s": "182273.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 7533070,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.9,
+                                    "s": "20046.00"
+                                },
+                                {
+                                    "p": 1.89,
+                                    "s": "11357.00"
+                                },
+                                {
+                                    "p": 1.88,
+                                    "s": "300224.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 1.91,
+                                    "s": "7708.00"
+                                },
+                                {
+                                    "p": 1.92,
+                                    "s": "31336.00"
+                                },
+                                {
+                                    "p": 1.93,
+                                    "s": "46086.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.6,
+                                    "s": "31086.00"
+                                },
+                                {
+                                    "p": 3.55,
+                                    "s": "35974.00"
+                                },
+                                {
+                                    "p": 3.5,
+                                    "s": "54150.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.65,
+                                    "s": "4612.00"
+                                },
+                                {
+                                    "p": 3.7,
+                                    "s": "204543.00"
+                                },
+                                {
+                                    "p": 3.75,
+                                    "s": "59711.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "Kansas City",
+                        "SID": 171912
+                    },
+                    {
+                        "RN": "Minnesota Utd",
+                        "SID": 7533070
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 266231,
+                "league_name": "Exclusive League",
+                "event_id": "1741998635716",
+                "sport_id": 7522,
+                "league_id": 100000000062,
+                "event_name": "Golden State Warriors vs. New York Knicks",
+                "event_date": "2025-03-16T00:30:00.000Z",
+                "slug": "1741998635716-golden-state-warriors-vs--new-york-knicks",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Basketball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266246,
+                "league_name": "Exclusive League",
+                "event_id": "1742000250469",
+                "sport_id": 7522,
+                "league_id": 100000000062,
+                "event_name": "San Antonio Spurs vs. New Orleans Pelicans",
+                "event_date": "2025-03-16T00:30:00.000Z",
+                "slug": "1742000250469-san-antonio-spurs-vs--new-orleans-pelicans",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Basketball",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 266747,
+                "league_name": "US Major League Soccer",
+                "event_id": "34091349",
+                "sport_id": 1,
+                "league_id": 141,
+                "event_name": "FC Dallas v Vancouver Whitecaps",
+                "event_date": "2025-03-16T00:30:00.000Z",
+                "slug": "34091349-fc-dallas-v-vancouver-whitecaps",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240394331",
+                "min_stake": 100,
+                "max_stake": 100000,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 929132,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 2937353,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.62,
+                                    "s": "6458.00"
+                                },
+                                {
+                                    "p": 2.6,
+                                    "s": "32457.00"
+                                },
+                                {
+                                    "p": 2.58,
+                                    "s": "38888.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.68,
+                                    "s": "195.00"
+                                },
+                                {
+                                    "p": 2.7,
+                                    "s": "12055.00"
+                                },
+                                {
+                                    "p": 2.72,
+                                    "s": "33594.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 5383053,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.1,
+                                    "s": "169.00"
+                                },
+                                {
+                                    "p": 3.05,
+                                    "s": "5298.00"
+                                },
+                                {
+                                    "p": 3,
+                                    "s": "35851.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.2,
+                                    "s": "47269.00"
+                                },
+                                {
+                                    "p": 3.25,
+                                    "s": "67931.00"
+                                },
+                                {
+                                    "p": 3.3,
+                                    "s": "261844.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.3,
+                                    "s": "8562.00"
+                                },
+                                {
+                                    "p": 3.25,
+                                    "s": "15953.00"
+                                },
+                                {
+                                    "p": 3.2,
+                                    "s": "32282.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.35,
+                                    "s": "5214.00"
+                                },
+                                {
+                                    "p": 3.4,
+                                    "s": "40875.00"
+                                },
+                                {
+                                    "p": 3.45,
+                                    "s": "35647.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "FC Dallas",
+                        "SID": 2937353
+                    },
+                    {
+                        "RN": "Vancouver Whitecaps",
+                        "SID": 5383053
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 266750,
+                "league_name": "US Major League Soccer",
+                "event_id": "34091348",
+                "sport_id": 1,
+                "league_id": 141,
+                "event_name": "Houston Dynamo v Real Salt Lake",
+                "event_date": "2025-03-16T00:30:00.000Z",
+                "slug": "34091348-houston-dynamo-v-real-salt-lake",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240394439",
+                "min_stake": 100,
+                "max_stake": 100000,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 929178,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 1432923,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.75,
+                                    "s": "3987.00"
+                                },
+                                {
+                                    "p": 3.7,
+                                    "s": "10757.00"
+                                },
+                                {
+                                    "p": 3.65,
+                                    "s": "800.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.85,
+                                    "s": "4390.00"
+                                },
+                                {
+                                    "p": 3.9,
+                                    "s": "42620.00"
+                                },
+                                {
+                                    "p": 3.95,
+                                    "s": "13394.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 1101610,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.04,
+                                    "s": "11151.00"
+                                },
+                                {
+                                    "p": 2.02,
+                                    "s": "42160.00"
+                                },
+                                {
+                                    "p": 2,
+                                    "s": "93450.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.08,
+                                    "s": "169.00"
+                                },
+                                {
+                                    "p": 2.1,
+                                    "s": "10206.00"
+                                },
+                                {
+                                    "p": 2.12,
+                                    "s": "35006.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.95,
+                                    "s": "4692.00"
+                                },
+                                {
+                                    "p": 3.9,
+                                    "s": "26148.00"
+                                },
+                                {
+                                    "p": 3.85,
+                                    "s": "17800.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 4.1,
+                                    "s": "26827.00"
+                                },
+                                {
+                                    "p": 4.2,
+                                    "s": "107459.00"
+                                },
+                                {
+                                    "p": 4.3,
+                                    "s": "28973.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "Houston Dynamo",
+                        "SID": 1432923
+                    },
+                    {
+                        "RN": "Real Salt Lake",
+                        "SID": 1101610
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 266753,
+                "league_name": "US Major League Soccer",
+                "event_id": "34091359",
+                "sport_id": 1,
+                "league_id": 141,
+                "event_name": "St Louis City SC v Seattle Sounders",
+                "event_date": "2025-03-16T00:30:00.000Z",
+                "slug": "34091359-st-louis-city-sc-v-seattle-sounders",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240394133",
+                "min_stake": 100,
+                "max_stake": 100000,
+                "max_market_limit": null,
+                "odd_limit": "10",
+                "bet_delay": 6,
+                "market_internal_id": 929181,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 52290449,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.42,
+                                    "s": "7183.00"
+                                },
+                                {
+                                    "p": 2.4,
+                                    "s": "61382.00"
+                                },
+                                {
+                                    "p": 2.38,
+                                    "s": "174282.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 2.46,
+                                    "s": "3164.00"
+                                },
+                                {
+                                    "p": 2.48,
+                                    "s": "35099.00"
+                                },
+                                {
+                                    "p": 2.5,
+                                    "s": "41836.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 4019787,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.4,
+                                    "s": "5140.00"
+                                },
+                                {
+                                    "p": 3.35,
+                                    "s": "104461.00"
+                                },
+                                {
+                                    "p": 3.3,
+                                    "s": "54155.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.45,
+                                    "s": "5147.00"
+                                },
+                                {
+                                    "p": 3.5,
+                                    "s": "33289.00"
+                                },
+                                {
+                                    "p": 3.55,
+                                    "s": "39183.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.3,
+                                    "s": "29942.00"
+                                },
+                                {
+                                    "p": 3.25,
+                                    "s": "47630.00"
+                                },
+                                {
+                                    "p": 3.2,
+                                    "s": "24979.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.4,
+                                    "s": "5140.00"
+                                },
+                                {
+                                    "p": 3.45,
+                                    "s": "118358.00"
+                                },
+                                {
+                                    "p": 3.5,
+                                    "s": "83152.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "St Louis City SC",
+                        "SID": 52290449
+                    },
+                    {
+                        "RN": "Seattle Sounders",
+                        "SID": 4019787
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 266762,
+                "league_name": "US United Soccer League",
+                "event_id": "34112212",
+                "sport_id": 1,
+                "league_id": 12216637,
+                "event_name": "San Antonio FC v Pittsburgh Riverhounds",
+                "event_date": "2025-03-16T00:30:00.000Z",
+                "slug": "34112212-san-antonio-fc-v-pittsburgh-riverhounds",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 0,
+                "market_id": "1.240735255",
+                "min_stake": 100,
+                "max_stake": 25000,
+                "max_market_limit": null,
+                "odd_limit": "6",
+                "bet_delay": 6,
+                "market_internal_id": 929323,
+                "isMatchLive": true,
+                "sport_name": "soccer",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [
+                    {
+                        "sid": 10992747,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.8,
+                                    "s": "250.00"
+                                },
+                                {
+                                    "p": 2.78,
+                                    "s": "2317.00"
+                                },
+                                {
+                                    "p": 1.09,
+                                    "s": "439.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.1,
+                                    "s": "585.00"
+                                },
+                                {
+                                    "p": 3.2,
+                                    "s": "1010.00"
+                                },
+                                {
+                                    "p": 3.25,
+                                    "s": "1523.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 5748486,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.84,
+                                    "s": "244.00"
+                                },
+                                {
+                                    "p": 2.82,
+                                    "s": "2757.00"
+                                },
+                                {
+                                    "p": 2.78,
+                                    "s": "1018.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.15,
+                                    "s": "360.00"
+                                },
+                                {
+                                    "p": 3.3,
+                                    "s": "1499.00"
+                                },
+                                {
+                                    "p": 3.35,
+                                    "s": "493.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 58805,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 2.9,
+                                    "s": "964.00"
+                                },
+                                {
+                                    "p": 2.86,
+                                    "s": "137.00"
+                                },
+                                {
+                                    "p": 2.8,
+                                    "s": "2771.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.2,
+                                    "s": "100.00"
+                                },
+                                {
+                                    "p": 3.3,
+                                    "s": "1109.00"
+                                },
+                                {
+                                    "p": 8,
+                                    "s": "3291.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "San Antonio FC",
+                        "SID": 10992747
+                    },
+                    {
+                        "RN": "Pittsburgh Riverhounds",
+                        "SID": 5748486
+                    },
+                    {
+                        "RN": "The Draw",
+                        "SID": 58805
+                    }
+                ]
+            },
+            {
+                "matchId": 267709,
+                "league_name": "Exclusive League",
+                "event_id": "1742076916078",
+                "sport_id": 27454574,
+                "league_id": 100000000075,
+                "event_name": "Wisniewski, Bartlomiej vs. Sinicki, Maciej ",
+                "event_date": "2025-03-16T00:45:00.000Z",
+                "slug": "1742076916078-wisniewski--bartlomiej-vs--sinicki--maciej-",
+                "has_bookmaker": 0,
+                "has_fancy": 0,
+                "has_3rdparty_Bookmaker": 0,
+                "has_3rdparty_Fancy": 0,
+                "has_premium_fancy": 0,
+                "is_custom": 0,
+                "inplay_status": 0,
+                "is_populer": 0,
+                "is_exclusive": 1,
+                "accept_any_odds": 0,
+                "min_stake": 100,
+                "max_stake": null,
+                "max_market_limit": null,
+                "odd_limit": null,
+                "bet_delay": null,
+                "market_internal_id": null,
+                "isMatchLive": true,
+                "sport_name": "Table tennis",
+                "inplay": true,
+                "status": "SUSPENDED",
+                "runners": [],
+                "runnerNames": []
+            },
+            {
+                "matchId": 264205,
+                "league_name": "International Twenty20 Matches",
+                "event_id": "34114195",
+                "sport_id": 4,
+                "league_id": 9992899,
+                "event_name": "New Zealand v Pakistan",
+                "event_date": "2025-03-16T01:15:00.000Z",
+                "slug": "34114195-new-zealand-v-pakistan",
+                "has_bookmaker": 1,
+                "has_fancy": 1,
+                "has_3rdparty_Bookmaker": 1,
+                "has_3rdparty_Fancy": 1,
+                "has_premium_fancy": 1,
+                "is_custom": 0,
+                "inplay_status": 1,
+                "is_populer": 0,
+                "is_exclusive": 0,
+                "accept_any_odds": 1,
+                "market_id": "1.240828211",
+                "min_stake": 100,
+                "max_stake": 25000,
+                "max_market_limit": null,
+                "odd_limit": "50",
+                "bet_delay": 6,
+                "market_internal_id": 919769,
+                "isMatchLive": false,
+                "sport_name": "cricket",
+                "inplay": true,
+                "status": "OPEN",
+                "runners": [
+                    {
+                        "sid": 448,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 1.45,
+                                    "s": "120358.00"
+                                },
+                                {
+                                    "p": 1.44,
+                                    "s": "294108.00"
+                                },
+                                {
+                                    "p": 1.43,
+                                    "s": "303254.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 1.46,
+                                    "s": "38547.00"
+                                },
+                                {
+                                    "p": 1.47,
+                                    "s": "28948.00"
+                                },
+                                {
+                                    "p": 1.48,
+                                    "s": "2854.00"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "sid": 7461,
+                        "s": "ACTIVE",
+                        "ex": {
+                            "b": [
+                                {
+                                    "p": 3.2,
+                                    "s": "562.00"
+                                },
+                                {
+                                    "p": 3.15,
+                                    "s": "19436.00"
+                                },
+                                {
+                                    "p": 3.1,
+                                    "s": "12869.00"
+                                }
+                            ],
+                            "l": [
+                                {
+                                    "p": 3.25,
+                                    "s": "54623.00"
+                                },
+                                {
+                                    "p": 3.3,
+                                    "s": "127476.00"
+                                },
+                                {
+                                    "p": 3.35,
+                                    "s": "129450.00"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "runnerNames": [
+                    {
+                        "RN": "New Zealand",
+                        "SID": 448
+                    },
+                    {
+                        "RN": "Pakistan",
+                        "SID": 7461
+                    }
+                ]
+            }
+        ],
+        "recommended": []
+    }
+}

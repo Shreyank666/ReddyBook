@@ -1,0 +1,2599 @@
+{
+    "success": true,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "matchId": 262383,
+            "league_name": "West Indies Championship",
+            "event_id": "-10812827",
+            "sport_id": 4,
+            "league_id": 100000000097,
+            "event_name": "Guyana V Windward Islands",
+            "event_date": "2025-03-12T14:00:00.000Z",
+            "slug": "-10812827-guyana-v-windward-islands",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 1,
+            "inplay_status": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "13.1741785856",
+            "min_stake": 100,
+            "inplay_stake_limit": null,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": "0",
+            "bet_delay": null,
+            "market_internal_id": 916101,
+            "isMatchLive": true,
+            "sport_name": "cricket",
+            "inplay": true,
+            "status": "OPEN",
+            "runnerNames": []
+        },
+        {
+            "matchId": 259649,
+            "league_name": "International Twenty20 Matches",
+            "event_id": "34111821",
+            "sport_id": 4,
+            "league_id": 9992899,
+            "event_name": "Prisons SC v Clarke Road United",
+            "event_date": "2025-03-13T22:00:00.000Z",
+            "slug": "34111821-prisons-sc-v-clarke-road-united",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240727622",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 909876,
+            "isMatchLive": true,
+            "sport_name": "cricket",
+            "inplay": true,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 81169733,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 26,
+                                "s": "1975.00"
+                            },
+                            {
+                                "p": 21,
+                                "s": "1189.00"
+                            },
+                            {
+                                "p": 17.5,
+                                "s": "1369.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 55,
+                                "s": "646.00"
+                            },
+                            {
+                                "p": 110,
+                                "s": "1146.00"
+                            },
+                            {
+                                "p": 330,
+                                "s": "922.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 80917439,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.02,
+                                "s": "34730.00"
+                            },
+                            {
+                                "p": 1.01,
+                                "s": "124575.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.04,
+                                "s": "49379.00"
+                            },
+                            {
+                                "p": 1.05,
+                                "s": "23781.00"
+                            },
+                            {
+                                "p": 1.06,
+                                "s": "22595.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Prisons SC",
+                    "SID": 81169733
+                },
+                {
+                    "RN": "Clarke Road United",
+                    "SID": 80917439
+                }
+            ]
+        },
+        {
+            "matchId": 263152,
+            "league_name": "Exclusive League",
+            "event_id": "1741829226639",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Sri Lanka Srl vs. Bangladesh Srl",
+            "event_date": "2025-03-14T00:00:00.000Z",
+            "slug": "1741829226639-sri-lanka-srl-vs--bangladesh-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": true,
+            "sport_name": "cricket",
+            "inplay": true,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 263161,
+            "league_name": "Exclusive League",
+            "event_id": "1741831206753",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Karachi Kings Srl vs. Quetta Gladiators Srl",
+            "event_date": "2025-03-14T02:00:00.000Z",
+            "slug": "1741831206753-karachi-kings-srl-vs--quetta-gladiators-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 263244,
+            "league_name": "International Twenty20 Matches",
+            "event_id": "34120311",
+            "sport_id": 4,
+            "league_id": 9992899,
+            "event_name": "Bahrain v China Hong Kong",
+            "event_date": "2025-03-14T03:00:00.000Z",
+            "slug": "34120311-bahrain-v-china-hong-kong",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240835463",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 917256,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 24640648,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2.08,
+                                "s": "10413.00"
+                            },
+                            {
+                                "p": 2.06,
+                                "s": "3228.00"
+                            },
+                            {
+                                "p": 1.91,
+                                "s": "4124.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.42,
+                                "s": "2355.00"
+                            },
+                            {
+                                "p": 2.98,
+                                "s": "2547.00"
+                            },
+                            {
+                                "p": 3,
+                                "s": "26127.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 70544869,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.71,
+                                "s": "587.00"
+                            },
+                            {
+                                "p": 1.7,
+                                "s": "2763.00"
+                            },
+                            {
+                                "p": 1.5,
+                                "s": "57306.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.92,
+                                "s": "11281.00"
+                            },
+                            {
+                                "p": 1.94,
+                                "s": "100.00"
+                            },
+                            {
+                                "p": 1.95,
+                                "s": "3311.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Bahrain",
+                    "SID": 24640648
+                },
+                {
+                    "RN": "China Hong Kong",
+                    "SID": 70544869
+                }
+            ]
+        },
+        {
+            "matchId": 263186,
+            "league_name": "Exclusive League",
+            "event_id": "1741838407014",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Melbourne Stars SRL vs. Perth Scorchers Srl",
+            "event_date": "2025-03-14T04:00:00.000Z",
+            "slug": "1741838407014-melbourne-stars-srl-vs--perth-scorchers-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 263087,
+            "league_name": "Mumbai Premier League",
+            "event_id": "34117625",
+            "sport_id": 4,
+            "league_id": 12649341,
+            "event_name": "Belapur Blasters v Koparkairne Titans",
+            "event_date": "2025-03-14T04:30:00.000Z",
+            "slug": "34117625-belapur-blasters-v-koparkairne-titans",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240800017",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 917070,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 65994093,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2.1,
+                                "s": "1221.00"
+                            },
+                            {
+                                "p": 2.08,
+                                "s": "11477.00"
+                            },
+                            {
+                                "p": 1.87,
+                                "s": "3882.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.54,
+                                "s": "3195.00"
+                            },
+                            {
+                                "p": 3.45,
+                                "s": "2232.00"
+                            },
+                            {
+                                "p": 4.4,
+                                "s": "5972.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 65958741,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.65,
+                                "s": "4918.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "5694.00"
+                            },
+                            {
+                                "p": 1.3,
+                                "s": "16667.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.91,
+                                "s": "1342.00"
+                            },
+                            {
+                                "p": 1.92,
+                                "s": "607.00"
+                            },
+                            {
+                                "p": 1.93,
+                                "s": "11766.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Belapur Blasters",
+                    "SID": 65994093
+                },
+                {
+                    "RN": "Koparkairne Titans",
+                    "SID": 65958741
+                }
+            ]
+        },
+        {
+            "matchId": 263208,
+            "league_name": "Exclusive League",
+            "event_id": "1741845607034",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Lucknow Super Giants Srl vs. Kolkata Knight Riders SRL",
+            "event_date": "2025-03-14T06:00:00.000Z",
+            "slug": "1741845607034-lucknow-super-giants-srl-vs--kolkata-knight-riders-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 261632,
+            "league_name": "Womens International Twenty20 Matches",
+            "event_id": "34112215",
+            "sport_id": 4,
+            "league_id": 12072774,
+            "event_name": "New Zealand Women v Sri Lanka Women",
+            "event_date": "2025-03-14T06:15:00.000Z",
+            "slug": "34112215-new-zealand-women-v-sri-lanka-women",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240755844",
+            "min_stake": 100,
+            "max_stake": 5000,
+            "max_market_limit": null,
+            "odd_limit": "20",
+            "bet_delay": 6,
+            "market_internal_id": 914685,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": true,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 890530,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.33,
+                                "s": "19295.00"
+                            },
+                            {
+                                "p": 1.32,
+                                "s": "57847.00"
+                            },
+                            {
+                                "p": 1.31,
+                                "s": "5452.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.36,
+                                "s": "4189.00"
+                            },
+                            {
+                                "p": 1.37,
+                                "s": "5495.00"
+                            },
+                            {
+                                "p": 1.38,
+                                "s": "27707.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 10787826,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 3.75,
+                                "s": "2399.00"
+                            },
+                            {
+                                "p": 3.7,
+                                "s": "3002.00"
+                            },
+                            {
+                                "p": 3.65,
+                                "s": "3613.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 4.1,
+                                "s": "11077.00"
+                            },
+                            {
+                                "p": 4.2,
+                                "s": "13478.00"
+                            },
+                            {
+                                "p": 4.3,
+                                "s": "3269.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "New Zealand Women",
+                    "SID": 890530
+                },
+                {
+                    "RN": "Sri Lanka Women",
+                    "SID": 10787826
+                }
+            ]
+        },
+        {
+            "matchId": 264180,
+            "league_name": "Womens International Twenty20 Matches",
+            "event_id": "34121445",
+            "sport_id": 4,
+            "league_id": 12072774,
+            "event_name": "Hong Kong Women v Nepal Women",
+            "event_date": "2025-03-14T07:00:00.000Z",
+            "slug": "34121445-hong-kong-women-v-nepal-women",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240852396",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 919715,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 60790163,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.8,
+                                "s": "638.00"
+                            },
+                            {
+                                "p": 1.79,
+                                "s": "2427.00"
+                            },
+                            {
+                                "p": 1.68,
+                                "s": "8272.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.62,
+                                "s": "206.00"
+                            },
+                            {
+                                "p": 2.68,
+                                "s": "1651.00"
+                            },
+                            {
+                                "p": 2.7,
+                                "s": "9291.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 12152200,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.62,
+                                "s": "333.00"
+                            },
+                            {
+                                "p": 1.6,
+                                "s": "1505.00"
+                            },
+                            {
+                                "p": 1.59,
+                                "s": "17045.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.26,
+                                "s": "508.00"
+                            },
+                            {
+                                "p": 2.28,
+                                "s": "1906.00"
+                            },
+                            {
+                                "p": 2.48,
+                                "s": "5604.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Hong Kong Women",
+                    "SID": 60790163
+                },
+                {
+                    "RN": "Nepal Women",
+                    "SID": 12152200
+                }
+            ]
+        },
+        {
+            "matchId": 263072,
+            "league_name": "CSA One-Day Challenge Div 2",
+            "event_id": "34117596",
+            "sport_id": 4,
+            "league_id": 12717744,
+            "event_name": "Kwazulu Natal Inland v Eastern Cape Linyathi",
+            "event_date": "2025-03-14T08:00:00.000Z",
+            "slug": "34117596-kwazulu-natal-inland-v-eastern-cape-linyathi",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240799754",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 917016,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 80452712,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.41,
+                                "s": "2739.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.23,
+                                "s": "21739.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 5.4,
+                                "s": "5029.00"
+                            },
+                            {
+                                "p": 6.6,
+                                "s": "4966.00"
+                            },
+                            {
+                                "p": 8.8,
+                                "s": "4939.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 60551675,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.23,
+                                "s": "21739.00"
+                            },
+                            {
+                                "p": 1.18,
+                                "s": "27778.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 3.45,
+                                "s": "1120.00"
+                            },
+                            {
+                                "p": 5.4,
+                                "s": "5029.00"
+                            },
+                            {
+                                "p": 6.6,
+                                "s": "4966.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Kwazulu Natal Inland",
+                    "SID": 80452712
+                },
+                {
+                    "RN": "Eastern Cape Linyathi",
+                    "SID": 60551675
+                }
+            ]
+        },
+        {
+            "matchId": 263245,
+            "league_name": "Exclusive League",
+            "event_id": "1741852807286",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Pakistan SRL vs. India SRL",
+            "event_date": "2025-03-14T08:00:00.000Z",
+            "slug": "1741852807286-pakistan-srl-vs--india-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 263457,
+            "league_name": "Exclusive League",
+            "event_id": "1741860007159",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Hobart Hurricanes Srl vs. Melbourne Renegades Srl",
+            "event_date": "2025-03-14T10:00:00.000Z",
+            "slug": "1741860007159-hobart-hurricanes-srl-vs--melbourne-renegades-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 264179,
+            "league_name": "Womens International Twenty20 Matches",
+            "event_id": "34121449",
+            "sport_id": 4,
+            "league_id": 12072774,
+            "event_name": "Uganda Women v Namibia Women",
+            "event_date": "2025-03-14T11:00:00.000Z",
+            "slug": "34121449-uganda-women-v-namibia-women",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240852399",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 919713,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 66989965,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.41,
+                                "s": "2000.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "178.00"
+                            },
+                            {
+                                "p": 1.31,
+                                "s": "580.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2,
+                                "s": "1991.00"
+                            },
+                            {
+                                "p": 4.4,
+                                "s": "5002.00"
+                            },
+                            {
+                                "p": 5.4,
+                                "s": "4952.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 25686046,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2,
+                                "s": "1991.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.3,
+                                "s": "16667.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 3.45,
+                                "s": "817.00"
+                            },
+                            {
+                                "p": 4.3,
+                                "s": "248.00"
+                            },
+                            {
+                                "p": 4.4,
+                                "s": "4924.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Uganda Women",
+                    "SID": 66989965
+                },
+                {
+                    "RN": "Namibia Women",
+                    "SID": 25686046
+                }
+            ]
+        },
+        {
+            "matchId": 263595,
+            "league_name": "Exclusive League",
+            "event_id": "1741867206713",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Sunrisers Hyderabad SRL vs. Royal Challengers Bangalore SRL",
+            "event_date": "2025-03-14T12:00:00.000Z",
+            "slug": "1741867206713-sunrisers-hyderabad-srl-vs--royal-challengers-bangalore-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 263086,
+            "league_name": "Mumbai Premier League",
+            "event_id": "34117655",
+            "sport_id": 4,
+            "league_id": 12649341,
+            "event_name": "Mira Bhayandar Lions v Vashi Warriors",
+            "event_date": "2025-03-14T12:30:00.000Z",
+            "slug": "34117655-mira-bhayandar-lions-v-vashi-warriors",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240800015",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 917067,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 65958740,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.62,
+                                "s": "1000.00"
+                            },
+                            {
+                                "p": 1.41,
+                                "s": "2000.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.62,
+                                "s": "618.00"
+                            },
+                            {
+                                "p": 3.45,
+                                "s": "817.00"
+                            },
+                            {
+                                "p": 4.3,
+                                "s": "302.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 65994092,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.62,
+                                "s": "1000.00"
+                            },
+                            {
+                                "p": 1.41,
+                                "s": "2000.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.62,
+                                "s": "618.00"
+                            },
+                            {
+                                "p": 3.45,
+                                "s": "817.00"
+                            },
+                            {
+                                "p": 4.3,
+                                "s": "266.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Mira Bhayandar Lions",
+                    "SID": 65958740
+                },
+                {
+                    "RN": "Vashi Warriors",
+                    "SID": 65994092
+                }
+            ]
+        },
+        {
+            "matchId": 263080,
+            "league_name": "International T20 Masters League",
+            "event_id": "34118437",
+            "sport_id": 4,
+            "league_id": 12718614,
+            "event_name": "Sri Lanka Masters v West Indies Masters",
+            "event_date": "2025-03-14T14:00:00.000Z",
+            "slug": "34118437-sri-lanka-masters-v-west-indies-masters",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240805360",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": null,
+            "odd_limit": "10",
+            "bet_delay": 6,
+            "market_internal_id": 917046,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 80417666,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.57,
+                                "s": "27161.00"
+                            },
+                            {
+                                "p": 1.5,
+                                "s": "200.00"
+                            },
+                            {
+                                "p": 1.47,
+                                "s": "678.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.7,
+                                "s": "100.00"
+                            },
+                            {
+                                "p": 1.8,
+                                "s": "200.00"
+                            },
+                            {
+                                "p": 1.87,
+                                "s": "231.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 80417667,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2.24,
+                                "s": "231.00"
+                            },
+                            {
+                                "p": 2.16,
+                                "s": "200.00"
+                            },
+                            {
+                                "p": 2.14,
+                                "s": "2904.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.74,
+                                "s": "723.00"
+                            },
+                            {
+                                "p": 2.76,
+                                "s": "14732.00"
+                            },
+                            {
+                                "p": 3,
+                                "s": "100.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Sri Lanka Masters",
+                    "SID": 80417666
+                },
+                {
+                    "RN": "West Indies Masters",
+                    "SID": 80417667
+                }
+            ]
+        },
+        {
+            "matchId": 263677,
+            "league_name": "Exclusive League",
+            "event_id": "1741874417657",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Peshawar Zalmi SRL vs. Islamabad United Srl",
+            "event_date": "2025-03-14T14:00:00.000Z",
+            "slug": "1741874417657-peshawar-zalmi-srl-vs--islamabad-united-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 263861,
+            "league_name": "Exclusive League",
+            "event_id": "1741881608884",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Joburg Super Kings Srl vs. Mi Cape Town Srl",
+            "event_date": "2025-03-14T16:00:00.000Z",
+            "slug": "1741881608884-joburg-super-kings-srl-vs--mi-cape-town-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 263952,
+            "league_name": "Exclusive League",
+            "event_id": "1741888808400",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Chennai Super Kings SRL vs. Gujarat Titans Srl",
+            "event_date": "2025-03-14T18:00:00.000Z",
+            "slug": "1741888808400-chennai-super-kings-srl-vs--gujarat-titans-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 264204,
+            "league_name": "International Twenty20 Matches",
+            "event_id": "34121405",
+            "sport_id": 4,
+            "league_id": 9992899,
+            "event_name": "QPCC I v Marchin Patriots Sports",
+            "event_date": "2025-03-14T18:00:00.000Z",
+            "slug": "34121405-qpcc-i-v-marchin-patriots-sports",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240852312",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 919763,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 81169663,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.05,
+                                "s": "50000.00"
+                            },
+                            {
+                                "p": 1.04,
+                                "s": "159769.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 21,
+                                "s": "2578.00"
+                            },
+                            {
+                                "p": 26,
+                                "s": "6391.00"
+                            },
+                            {
+                                "p": 36,
+                                "s": "6622.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 81283309,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.05,
+                                "s": "50000.00"
+                            },
+                            {
+                                "p": 1.04,
+                                "s": "159769.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 21,
+                                "s": "2578.00"
+                            },
+                            {
+                                "p": 26,
+                                "s": "6391.00"
+                            },
+                            {
+                                "p": 36,
+                                "s": "6622.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "QPCC I",
+                    "SID": 81169663
+                },
+                {
+                    "RN": "Marchin Patriots Sports",
+                    "SID": 81283309
+                }
+            ]
+        },
+        {
+            "matchId": 264088,
+            "league_name": "Exclusive League",
+            "event_id": "1741896007609",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "England SRL vs. Australia SRL",
+            "event_date": "2025-03-14T20:00:00.000Z",
+            "slug": "1741896007609-england-srl-vs--australia-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 264203,
+            "league_name": "International Twenty20 Matches",
+            "event_id": "34121406",
+            "sport_id": 4,
+            "league_id": 9992899,
+            "event_name": "Preysal SC v Central Sports",
+            "event_date": "2025-03-14T22:00:00.000Z",
+            "slug": "34121406-preysal-sc-v-central-sports",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240852314",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 919762,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 81169661,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.43,
+                                "s": "1000.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.24,
+                                "s": "702.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 3.35,
+                                "s": "427.00"
+                            },
+                            {
+                                "p": 5.2,
+                                "s": "252.00"
+                            },
+                            {
+                                "p": 5.4,
+                                "s": "4952.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 81283314,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.43,
+                                "s": "1000.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.24,
+                                "s": "730.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 3.35,
+                                "s": "427.00"
+                            },
+                            {
+                                "p": 5.2,
+                                "s": "245.00"
+                            },
+                            {
+                                "p": 5.4,
+                                "s": "4952.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Preysal SC",
+                    "SID": 81169661
+                },
+                {
+                    "RN": "Central Sports",
+                    "SID": 81283314
+                }
+            ]
+        },
+        {
+            "matchId": 264254,
+            "league_name": "Exclusive League",
+            "event_id": "1741903208810",
+            "sport_id": 4,
+            "league_id": 100000000048,
+            "event_name": "Guyana Amazon Warriors Srl vs. Antigua And Barbuda Falcons Srl",
+            "event_date": "2025-03-14T22:00:00.000Z",
+            "slug": "1741903208810-guyana-amazon-warriors-srl-vs--antigua-and-barbuda-falcons-srl",
+            "has_bookmaker": 0,
+            "has_fancy": 0,
+            "has_3rdparty_Bookmaker": 0,
+            "has_3rdparty_Fancy": 0,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 1,
+            "accept_any_odds": 0,
+            "min_stake": 100,
+            "max_stake": null,
+            "max_market_limit": null,
+            "odd_limit": null,
+            "bet_delay": null,
+            "market_internal_id": null,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "SUSPENDED",
+            "runners": [],
+            "runnerNames": []
+        },
+        {
+            "matchId": 264208,
+            "league_name": "Mumbai Premier League",
+            "event_id": "34120670",
+            "sport_id": 4,
+            "league_id": 12649341,
+            "event_name": "Sanpada Scorpions v Thane Tigers",
+            "event_date": "2025-03-15T04:30:00.000Z",
+            "slug": "34120670-sanpada-scorpions-v-thane-tigers",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240840259",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 919779,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 65958743,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.41,
+                                "s": "2739.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.04,
+                                "s": "62500.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 3.45,
+                                "s": "1120.00"
+                            },
+                            {
+                                "p": 26,
+                                "s": "2578.00"
+                            },
+                            {
+                                "p": 36,
+                                "s": "572.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 65958742,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.41,
+                                "s": "2739.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.04,
+                                "s": "62500.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 3.45,
+                                "s": "1120.00"
+                            },
+                            {
+                                "p": 26,
+                                "s": "2578.00"
+                            },
+                            {
+                                "p": 36,
+                                "s": "572.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Sanpada Scorpions",
+                    "SID": 65958743
+                },
+                {
+                    "RN": "Thane Tigers",
+                    "SID": 65958742
+                }
+            ]
+        },
+        {
+            "matchId": 264193,
+            "league_name": "ICC Cricket World Cup League 2",
+            "event_id": "34120884",
+            "sport_id": 4,
+            "league_id": 12649673,
+            "event_name": "Namibia v Canada",
+            "event_date": "2025-03-15T07:30:00.000Z",
+            "slug": "34120884-namibia-v-canada",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240842945",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 300000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 919727,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 144199,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.86,
+                                "s": "3959.00"
+                            },
+                            {
+                                "p": 1.85,
+                                "s": "8800.00"
+                            },
+                            {
+                                "p": 1.81,
+                                "s": "11100.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.7,
+                                "s": "294.00"
+                            },
+                            {
+                                "p": 2.76,
+                                "s": "276.00"
+                            },
+                            {
+                                "p": 3.25,
+                                "s": "3435.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 144197,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.59,
+                                "s": "500.00"
+                            },
+                            {
+                                "p": 1.57,
+                                "s": "485.00"
+                            },
+                            {
+                                "p": 1.45,
+                                "s": "7700.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.16,
+                                "s": "993.00"
+                            },
+                            {
+                                "p": 2.18,
+                                "s": "9862.00"
+                            },
+                            {
+                                "p": 2.24,
+                                "s": "8969.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Namibia",
+                    "SID": 144199
+                },
+                {
+                    "RN": "Canada",
+                    "SID": 144197
+                }
+            ]
+        },
+        {
+            "matchId": 264210,
+            "league_name": "Women's Premier League",
+            "event_id": "34121857",
+            "sport_id": 4,
+            "league_id": 12559935,
+            "event_name": "Delhi Capitals W v Mumbai Indians W",
+            "event_date": "2025-03-15T14:00:00.000Z",
+            "slug": "34121857-delhi-capitals-w-v-mumbai-indians-w",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240859223",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": null,
+            "odd_limit": "20",
+            "bet_delay": 6,
+            "market_internal_id": 919783,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 66528615,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2.18,
+                                "s": "319.00"
+                            },
+                            {
+                                "p": 2.16,
+                                "s": "2863.00"
+                            },
+                            {
+                                "p": 2.14,
+                                "s": "45264.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.2,
+                                "s": "20329.00"
+                            },
+                            {
+                                "p": 2.28,
+                                "s": "6577.00"
+                            },
+                            {
+                                "p": 2.3,
+                                "s": "24115.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 67071071,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.84,
+                                "s": "1144.00"
+                            },
+                            {
+                                "p": 1.83,
+                                "s": "23290.00"
+                            },
+                            {
+                                "p": 1.79,
+                                "s": "8378.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.85,
+                                "s": "376.00"
+                            },
+                            {
+                                "p": 1.86,
+                                "s": "3324.00"
+                            },
+                            {
+                                "p": 1.87,
+                                "s": "51799.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Delhi Capitals W",
+                    "SID": 66528615
+                },
+                {
+                    "RN": "Mumbai Indians W",
+                    "SID": 67071071
+                }
+            ]
+        },
+        {
+            "matchId": 264205,
+            "league_name": "International Twenty20 Matches",
+            "event_id": "34114195",
+            "sport_id": 4,
+            "league_id": 9992899,
+            "event_name": "New Zealand v Pakistan",
+            "event_date": "2025-03-16T01:15:00.000Z",
+            "slug": "34114195-new-zealand-v-pakistan",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240828211",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": 200000,
+            "odd_limit": "3",
+            "bet_delay": 6,
+            "market_internal_id": 919769,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 448,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.4,
+                                "s": "194.00"
+                            },
+                            {
+                                "p": 1.36,
+                                "s": "655.00"
+                            },
+                            {
+                                "p": 1.35,
+                                "s": "25493.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.9,
+                                "s": "5833.00"
+                            },
+                            {
+                                "p": 1.91,
+                                "s": "10000.00"
+                            },
+                            {
+                                "p": 1.92,
+                                "s": "15000.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 7461,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2.12,
+                                "s": "744.00"
+                            },
+                            {
+                                "p": 2.1,
+                                "s": "4524.00"
+                            },
+                            {
+                                "p": 2.08,
+                                "s": "23029.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 3.8,
+                                "s": "312.00"
+                            },
+                            {
+                                "p": 3.85,
+                                "s": "428.00"
+                            },
+                            {
+                                "p": 3.9,
+                                "s": "8402.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "New Zealand",
+                    "SID": 448
+                },
+                {
+                    "RN": "Pakistan",
+                    "SID": 7461
+                }
+            ]
+        },
+        {
+            "matchId": 252618,
+            "league_name": "Indian Premier League",
+            "event_id": "34099614",
+            "sport_id": 4,
+            "league_id": 101480,
+            "event_name": "Kolkata Knight Riders v RC Bengaluru",
+            "event_date": "2025-03-22T14:00:00.000Z",
+            "slug": "34099614-kolkata-knight-riders-v-royal-challengers-bengalu",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240521725",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": null,
+            "odd_limit": "50",
+            "bet_delay": 6,
+            "market_internal_id": 888899,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 2954260,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.81,
+                                "s": "746.00"
+                            },
+                            {
+                                "p": 1.8,
+                                "s": "4189.00"
+                            },
+                            {
+                                "p": 1.76,
+                                "s": "4189.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.38,
+                                "s": "896.00"
+                            },
+                            {
+                                "p": 2.4,
+                                "s": "5000.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 67868736,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.96,
+                                "s": "419.00"
+                            },
+                            {
+                                "p": 1.95,
+                                "s": "3779.00"
+                            },
+                            {
+                                "p": 1.94,
+                                "s": "251303.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.38,
+                                "s": "181.00"
+                            },
+                            {
+                                "p": 2.4,
+                                "s": "4825.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Kolkata Knight Riders",
+                    "SID": 2954260
+                },
+                {
+                    "RN": "Royal Challengers Bengaluru",
+                    "SID": 67868736
+                }
+            ]
+        },
+        {
+            "matchId": 258100,
+            "league_name": "Indian Premier League",
+            "event_id": "34108705",
+            "sport_id": 4,
+            "league_id": 101480,
+            "event_name": "Sunrisers Hyderabad v Rajasthan Royals",
+            "event_date": "2025-03-23T10:00:00.000Z",
+            "slug": "34108705-sunrisers-hyderabad-v-rajasthan-royals",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240667399",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": null,
+            "odd_limit": "50",
+            "bet_delay": 6,
+            "market_internal_id": 906346,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 7671296,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.76,
+                                "s": "692.00"
+                            },
+                            {
+                                "p": 1.74,
+                                "s": "2692.00"
+                            },
+                            {
+                                "p": 1.71,
+                                "s": "5702.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.87,
+                                "s": "1849.00"
+                            },
+                            {
+                                "p": 1.88,
+                                "s": "2775.00"
+                            },
+                            {
+                                "p": 1.9,
+                                "s": "419.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 2954266,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2.14,
+                                "s": "2816.00"
+                            },
+                            {
+                                "p": 2.12,
+                                "s": "1250.00"
+                            },
+                            {
+                                "p": 2.1,
+                                "s": "379.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.32,
+                                "s": "525.00"
+                            },
+                            {
+                                "p": 2.36,
+                                "s": "1985.00"
+                            },
+                            {
+                                "p": 2.4,
+                                "s": "4063.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Sunrisers Hyderabad",
+                    "SID": 7671296
+                },
+                {
+                    "RN": "Rajasthan Royals",
+                    "SID": 2954266
+                }
+            ]
+        },
+        {
+            "matchId": 258101,
+            "league_name": "Indian Premier League",
+            "event_id": "34108723",
+            "sport_id": 4,
+            "league_id": 101480,
+            "event_name": "Chennai Super Kings v Mumbai Indians",
+            "event_date": "2025-03-23T14:00:00.000Z",
+            "slug": "34108723-chennai-super-kings-v-mumbai-indians",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240667316",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": null,
+            "odd_limit": "50",
+            "bet_delay": 6,
+            "market_internal_id": 906347,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 2954263,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2.02,
+                                "s": "1527.00"
+                            },
+                            {
+                                "p": 2,
+                                "s": "14488.00"
+                            },
+                            {
+                                "p": 1.93,
+                                "s": "11612.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.14,
+                                "s": "299.00"
+                            },
+                            {
+                                "p": 2.18,
+                                "s": "861.00"
+                            },
+                            {
+                                "p": 2.2,
+                                "s": "5520.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 2954281,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.88,
+                                "s": "340.00"
+                            },
+                            {
+                                "p": 1.85,
+                                "s": "1015.00"
+                            },
+                            {
+                                "p": 1.84,
+                                "s": "6600.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.99,
+                                "s": "2166.00"
+                            },
+                            {
+                                "p": 2,
+                                "s": "13875.00"
+                            },
+                            {
+                                "p": 2.08,
+                                "s": "10775.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Chennai Super Kings",
+                    "SID": 2954263
+                },
+                {
+                    "RN": "Mumbai Indians",
+                    "SID": 2954281
+                }
+            ]
+        },
+        {
+            "matchId": 258103,
+            "league_name": "Indian Premier League",
+            "event_id": "34108955",
+            "sport_id": 4,
+            "league_id": 101480,
+            "event_name": "Delhi Capitals v Lucknow Super Giants",
+            "event_date": "2025-03-24T14:00:00.000Z",
+            "slug": "34108955-delhi-capitals-v-lucknow-super-giants",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240673343",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": null,
+            "odd_limit": "50",
+            "bet_delay": 6,
+            "market_internal_id": 906357,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 22121561,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2,
+                                "s": "5758.00"
+                            },
+                            {
+                                "p": 1.74,
+                                "s": "100.00"
+                            },
+                            {
+                                "p": 1.71,
+                                "s": "7018.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.12,
+                                "s": "4756.00"
+                            },
+                            {
+                                "p": 2.4,
+                                "s": "5063.00"
+                            },
+                            {
+                                "p": 3.5,
+                                "s": "2578.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 42821393,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.9,
+                                "s": "5307.00"
+                            },
+                            {
+                                "p": 1.71,
+                                "s": "7103.00"
+                            },
+                            {
+                                "p": 1.4,
+                                "s": "6444.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2,
+                                "s": "5758.00"
+                            },
+                            {
+                                "p": 2.4,
+                                "s": "5074.00"
+                            },
+                            {
+                                "p": 3.5,
+                                "s": "2578.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Delhi Capitals",
+                    "SID": 22121561
+                },
+                {
+                    "RN": "Lucknow Super Giants",
+                    "SID": 42821393
+                }
+            ]
+        },
+        {
+            "matchId": 258102,
+            "league_name": "Indian Premier League",
+            "event_id": "34109310",
+            "sport_id": 4,
+            "league_id": 101480,
+            "event_name": "Gujarat Titans v Punjab Kings",
+            "event_date": "2025-03-25T14:00:00.000Z",
+            "slug": "34109310-gujarat-titans-v-punjab-kings",
+            "has_bookmaker": 1,
+            "has_fancy": 1,
+            "has_3rdparty_Bookmaker": 1,
+            "has_3rdparty_Fancy": 1,
+            "has_premium_fancy": 1,
+            "is_custom": 0,
+            "is_populer": 0,
+            "is_exclusive": 0,
+            "accept_any_odds": 1,
+            "market_id": "1.240683996",
+            "min_stake": 100,
+            "max_stake": 1,
+            "max_market_limit": null,
+            "odd_limit": "50",
+            "bet_delay": 6,
+            "market_internal_id": 906349,
+            "isMatchLive": false,
+            "sport_name": "cricket",
+            "inplay": false,
+            "status": "OPEN",
+            "runners": [
+                {
+                    "sid": 42821394,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 1.73,
+                                "s": "712.00"
+                            },
+                            {
+                                "p": 1.72,
+                                "s": "13575.00"
+                            },
+                            {
+                                "p": 1.71,
+                                "s": "8658.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 1.85,
+                                "s": "6148.00"
+                            },
+                            {
+                                "p": 1.9,
+                                "s": "7366.00"
+                            },
+                            {
+                                "p": 2.4,
+                                "s": "5072.00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "sid": 38528100,
+                    "s": "ACTIVE",
+                    "ex": {
+                        "b": [
+                            {
+                                "p": 2.16,
+                                "s": "5266.00"
+                            },
+                            {
+                                "p": 2.1,
+                                "s": "6664.00"
+                            },
+                            {
+                                "p": 1.71,
+                                "s": "7115.00"
+                            }
+                        ],
+                        "l": [
+                            {
+                                "p": 2.38,
+                                "s": "1230.00"
+                            },
+                            {
+                                "p": 2.4,
+                                "s": "14023.00"
+                            },
+                            {
+                                "p": 2.42,
+                                "s": "1159.00"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "runnerNames": [
+                {
+                    "RN": "Gujarat Titans",
+                    "SID": 42821394
+                },
+                {
+                    "RN": "Punjab Kings",
+                    "SID": 38528100
+                }
+            ]
+        }
+    ]
+}
