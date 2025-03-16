@@ -4,10 +4,10 @@
   "description": "Backend API for Lotus365 betting platform",
   "main": "server.js",
   "scripts": {
-    "build": "npm run build", // Your build command for the frontend
-    "vercel-build": "npm run build", // Optional: if you have a specific build command for Vercel
-    "start": "node server.js", // Your backend start command
-    "client": "cd client && npm start", // Your frontend start command
+    "build": "npm run build",
+    "vercel-build": "npm run build",
+    "start": "node server.js",
+    "client": "cd client && npm start",
     "dev": "concurrently \"npm run start\" \"npm run client\""
   },
   "dependencies": {
